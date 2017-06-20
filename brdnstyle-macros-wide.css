@@ -1,0 +1,111 @@
+#leftcol {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 236px;
+  min-height: 100%;
+  background: #DF8350;
+  color: #000000;
+}
+#rightcol {
+  position: absolute;
+  top: 0px;
+  left: 236px;
+  width: 900px;
+  min-height: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #CCCC99;
+}
+body {
+  word-spacing: normal;
+  letter-spacing: normal;
+  line-height: 13px; 
+  font-family: Tahoma, Geneva, Arial, Helvetica, sans serif; 
+  font-size: 8pt;
+  background: url(elements/bg2010.jpg) top left repeat-y;
+  margin: 0px;
+  padding: 0px;
+}
+a:link {
+  color: #0000CC; 
+  text-decoration: none; }
+a:visited {
+  color: #0000CC; 
+  text-decoration: none; }
+h1 { 
+  font-family: Tahoma, Geneva, Arial, Helvetica, sans serif; 
+  font-size: 8pt; 
+  font-weight: bold; 
+  color: #000000;
+  text-align: center;
+  margin-top: 34px;
+  margin-bottom: 10px; } 
+h2 { 
+  font-family: Tahoma, Geneva, Arial, Helvetica, sans serif; 
+  font-size: 8pt; 
+  font-weight: bold; 
+  color: #000000;
+  margin-top: 15px;
+  margin-bottom: 0px; } 
+p {
+  font-size: 8pt; 
+  margin-top: 0px; 
+  margin-bottom: 0px;
+  line-height: 13px; }
+.bodytext {
+  margin-top: 10px; }
+.indentsmall {
+  margin-left: 15px; }
+.indentmedium {
+  margin-left: 25px; }
+.indentmedium2 {
+  margin-left: 32px; }
+.indentmedium3 {
+  margin-left: 40px; }  
+.bottompad {
+  margin-bottom: 2px; }
+.bottomlinepad {
+  margin-bottom: 10px; }
+.toppad {
+  margin-top: 2px; }
+.toplinepad {
+  margin-top: 10px; }
+.toppadrightcol {
+  margin-top: 34px; }
+.brdn-topleft {
+  text-align: center;
+  margin-top: 12px; }
+.rjm {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 15px; }
+.contactinfo {
+  text-align: center; }
+.homelink-left {
+  text-align: center;
+  margin-top: 20px; }
+.homelink-right {
+  text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+.photo {
+  text-align: center;}
+.photocaption {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;}
+.author {
+  text-align: center;
+  margin-bottom: 3px;
+  line-height: 13px; }
+.codeblock {
+  margin-right: 5;
+  margin-top: 6;
+  margin-bottom: 6;
+  margin-left: 15;
+  padding-left: 10;
+  padding-top: 5;
+  padding-bottom: 5;
+  background-color: #DEDEBC; }
+
