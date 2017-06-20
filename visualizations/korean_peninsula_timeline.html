@@ -1,0 +1,108 @@
+<script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization',
+       'version':'1','packages':['timeline']}]}"></script>
+<script type="text/javascript">
+
+google.setOnLoadCallback(drawChart);
+function drawChart() {
+
+  var container = document.getElementById('korean_peninsula_timeline');
+  var chart = new google.visualization.Timeline(container);
+
+  var dataTable = new google.visualization.DataTable();
+  dataTable.addColumn({ type: 'string', id: 'Position' });
+  dataTable.addColumn({ type: 'string', id: 'Name' });
+  dataTable.addColumn({ type: 'string', role: 'tooltip', 'p': {'html': true} });
+  dataTable.addColumn({ type: 'date', id: 'Start' });
+  dataTable.addColumn({ type: 'date', id: 'End' });
+  dataTable.addRows([
+    [ 'US President', 'George H.W. Bush', null, new Date(1990, 0, 0), new Date(1993, 0, 20)], // in office January 20, 1989; truncated here
+    [ 'US President', 'Bill Clinton', null, new Date(1993, 0, 20), new Date(2001, 0, 20)],
+    [ 'US President', 'George W. Bush', null, new Date(2001, 0, 20), new Date(2009, 0, 20)],
+    [ 'US President', 'Barack Obama', null, new Date(2009, 0, 20), new Date(2017, 0, 20)],
+    [ 'ROK President', 'Roh Tae-woo', null, new Date(1990, 0, 0), new Date(1993, 1, 25)], // in office February 25, 1988; truncated here
+    [ 'ROK President', 'Kim Youngsam', null, new Date(1993, 1, 25), new Date(1998, 1, 25)],
+    [ 'ROK President', 'Kim Dae-jung', null, new Date(1998, 1, 25), new Date(2003, 1, 25)],
+    [ 'ROK President', 'Roh Moo-hyun', null, new Date(2003, 1, 25), new Date(2008, 1, 25)],
+    [ 'ROK President', 'Lee Myung-bak', null, new Date(2008, 1, 25), new Date(2013, 1, 25)],
+    [ 'ROK President', 'Park Geun-hye', null, new Date(2013, 1, 25), new Date(2017, 0, 20)],
+    [ 'DPRK Supreme Leader', 'Kim Il-sung', null, new Date(1990, 0, 0), new Date(1994, 6, 7)],
+    [ 'DPRK Supreme Leader', 'Kim Jong-il', null, new Date(1994, 6, 8), new Date(2011, 11, 17)],
+    [ 'DPRK Supreme Leader', 'Kim Jong-un', null, new Date(2011, 11, 17), new Date(2017, 0, 20)],
+    [ 'Nuclear Tests', 'First DPRK nuclear test', '<b>First-ever DPRK nuclear test</b><br>October 9, 2006', new Date(2006, 9, 9), new Date(2006, 9, 9)],
+    [ 'Nuclear Tests', ' ', null, new Date(2009, 4, 25), new Date(2009, 4, 25)],
+    [ 'Nuclear Tests', ' ', null, new Date(2013, 1, 12), new Date(2013, 1, 12)],
+    [ 'Nuclear Tests', ' ', null, new Date(2016, 0, 6), new Date(2016, 0, 6)],
+    [ 'Nuclear Tests', ' ', null, new Date(2016, 8, 9), new Date(2016, 8, 9)],
+    [ 'DPRK Other Actions', 'CIA Intelligence reveals construction of a reprocessing facility near Yongbyon; violation of NPT', null, new Date(1993, 1, 15), new Date(1993, 1, 15)], // double-check
+    [ 'DPRK Other Actions', 'U.S. intelligence reveals North Korean capabilities to reach Guam and Japan with Taepodong missiles', null, new Date(1994, 3, 15), new Date(1994, 3, 15)], // double-check
+    [ 'DPRK Other Actions', 'DPRK announces it is restarting facilities that had been frozen under the Agreed Framework', null, new Date(2002, 11, 12), new Date(2002, 11, 12)],
+    [ 'DPRK Other Actions', 'DPRK announces withdrawal from nuclear Nonproliferation Treaty', null, new Date(2003, 0, 11), new Date(2003, 0, 11)],
+    [ 'DPRK Other Actions', 'North Korea test fires seven ballistic missiles', null, new Date(2006, 6, 4), new Date(2006, 6, 5)],
+    [ 'DPRK Other Actions', 'DPRK rocket launch fails; supposedly an attempt to put a satellite in orbit, but interpreted as a missile test', null, new Date(2009, 3, 5), new Date(2009, 3, 5)],
+    [ 'DPRK Other Actions', 'The South Korean patrol ship Cheonan is sunk', null, new Date(2010, 2, 26), new Date(2010, 2, 26)],
+    [ 'DPRK Other Actions', 'DPRK shells Yeonpyeong island, killing 2 and injuring 20', null, new Date(2010, 10, 23), new Date(2010, 10, 23)],
+    [ 'DPRK Other Actions', 'DPRK attemped Unha-3 rocket launch, a failure', null, new Date(2012, 3, 13), new Date(2012, 3, 13)],
+    [ 'DPRK Other Actions', 'DPRK launches Unha-3 rocket; its satellite payload enters orbit', null, new Date(2012, 11, 12), new Date(2012, 11, 12)],
+    [ 'DPRK Other Actions', 'DPRK announces first missile launch from submarine', null, new Date(2015, 4, 8), new Date(2015, 4, 8)],
+    [ 'United Nations', 'UN Security Council adopts Resolution 1695 condemning DPRK missile launches', null, new Date(2006, 6, 15), new Date(2006, 6, 15)],
+    [ 'United Nations', 'UN Security Council adopts Resolution 1718', null, new Date(2006, 9, 14), new Date(2006, 9, 14)],
+    [ 'United Nations', 'UN Security Council issues presidential statement condemning DPRK April 5 rocket launch', null, new Date(2009, 3, 13), new Date(2009, 3, 13)],
+    [ 'United Nations', 'UN Security Council unanimously adopts Resolution 1874', null, new Date(2009, 5, 12), new Date(2009, 5, 12)],
+    [ 'United Nations', 'UN Security Council passes Resolution 2087 in response to Dec. 12 satellite launch', null, new Date(2013, 0, 22), new Date(2013, 0, 22)],
+    [ 'United Nations', 'UN Security Council unanimously passes Resolution 2094', null, new Date(2013, 2, 7), new Date(2013, 2, 7)],
+    [ 'Agreements', 'US and DPRK sign Agreed Framework in Geneva', null, new Date(1994, 7, 12), new Date(1994, 7, 12)],
+    [ 'Agreements', 'At Six-Party Talks, a joint statement of principles is announced', null, new Date(2005, 8, 19), new Date(2005, 8, 19)],
+    [ 'Agreements', 'At Six-Party Talks, an Action Plan of denuclearization steps is announced', null, new Date(2007, 1, 8), new Date(2007, 1, 13)],
+    [ 'Agreements', 'DPRK agrees to moratorium on nuclear and long-range missile tests, suspending Yongbyon uranium enrichment plant; US agrees to provide food aid; soon falls apart', null, new Date(2012, 1, 29), new Date(2012, 1, 29)],
+    [ 'Negotiations', 'Gallucci visits North Korea', null, new Date(1993, 5, 13), new Date(1993, 5, 15)], // double check
+    [ 'Negotiations', 'Carter visits North Korea', null, new Date(1994, 5, 13), new Date(1994, 5, 15)], // double check
+    [ 'Negotiations', 'First round of Six-Party Talks in Beijing', null, new Date(2003, 7, 27), new Date(2003, 7, 29)],
+    [ 'Negotiations', 'Second Round of Six Party Talks in Beijing', null, new Date (2004, 1, 25), new Date (2004, 1, 28)],
+    [ 'Negotiations', 'Third Round of Six Party Talks in Beijing', null, new Date (2004, 5, 23), new Date (2004, 5, 26)],
+    [ 'Negotiations', 'Fourth Round (1st phase) of Six Party Talks in Beijing', null, new Date (2005, 6, 26), new Date (2005, 7, 7)],
+    [ 'Negotiations', 'Fourth Round (2nd phase) of Six Party Talks in Beijing', null, new Date (2005, 8, 13), new Date (2005, 8, 19)],
+    [ 'Negotiations', 'Fifth Round (1st phase) of Six Party Talks in Beijing', null, new Date (2005, 10, 9), new Date (2005, 10, 11)],
+    [ 'Negotiations', 'Fifth Round (2nd phase) of Six Party Talks in Beijing', null, new Date (2006, 11, 18), new Date (2006, 11, 22)],
+    [ 'Negotiations', 'Fifth Round (3rd phase) of Six Party Talks in Beijing', null, new Date (2007, 1, 8), new Date (2007, 1, 13)],
+    [ 'Negotiations', 'Sixth Round (1st phase) of Six-Party Talks in Beijing', null, new Date (2007, 2, 19), new Date (2007, 2, 22)],
+    [ 'Negotiations', 'Sixth Round (1st phase, resumed) of Six-Party Talks in Beijing', null, new Date (2007, 6, 18), new Date (2007, 6, 20)],
+    [ 'Negotiations', 'Sixth Round (2nd phase) of Six-Party Talks in Beijing', null, new Date (2007, 8, 27), new Date (2007, 8, 30)],
+    [ 'Negotiations', 'Assistant Secretary of State Christopher Hill and North Korea Vice-Foreign Minister Kim Gye Gwan meet in Geneva', null, new Date (2008, 2, 13), new Date (2008, 2, 13)],
+    [ 'Negotiations', 'Assistant Secretary of State Christopher Hill and North Korea Vice-Foreign Minister Kim Gye Gwan meet in Singapore', null, new Date (2008, 3, 8), new Date (2008, 3, 8)],
+    [ 'Negotiations', 'Six-party discussions on verification, disablement, and energy assistance in Beijing end in stalemate due to a failure to reach agreement on verification. (Verbatim from ArmsControl.org)', null, new Date (2008, 11, 8), new Date (2008, 11, 11)],
+    [ 'US Actions', 'Resumption of Team Spirit', null, new Date(1992, 9, 7), new Date(1992, 9, 7)], // double check
+    [ 'US Actions', 'President Bush, in State of the Union address, includes North Korea in Axis of Evil', null, new Date(2002, 0, 29), new Date(2002, 0, 29)],
+    [ 'US Actions', 'US Treasury Dept designates Banco Delta Asia (of Macao) as a money-laundering concern; DPRK assets frozen', null, new Date(2005, 8, 15), new Date(2005, 8, 15)],
+    [ 'DPRK-ROK Bilateral', 'First DPRK-ROK summit meeting, held in Pyongyang', null, new Date(2000, 5, 13), new Date(2000, 5, 15)],
+    [ 'DPRK-ROK Bilateral', 'Second DPRK-ROK summit meeting, held in Pyongyang', null, new Date(2007, 9, 2), new Date(2007, 9, 4)]
+  ]);
+
+  var options = {
+  	tooltip: { isHtml: true },
+    timeline: { colorByRowLabel: true },
+    avoidOverlappingGridLines: false,
+    colors: ['#A1CBD1', '#A9C0E8', '#E8ADA9', '#F2495C', '#87706F', '#E8A9E4', '#8BC79A', '#CBDE97', '#A1CBD1', '#E8B5A2']
+  };
+
+  chart.draw(dataTable, options);
+}
+</script>
+<style>
+    .google-visualization-tooltip { 
+
+        font-family: Tahoma, Geneva, Arial, Helvetica, sans serif; 
+        background-color: rgb(250, 250, 250) !important;
+        font-size: 15px !important;
+        padding-top: 5px !important;
+        padding-right: 5px !important;
+        padding-bottom: 5px !important;
+        padding-left: 5px !important;
+
+          }
+</style>
+
+<div id="header" style="margin-bottom: 20px;"><b>Korean Peninsula Timeline, 1990- [<u>a work in progress</u>]</b>
+</div>
+<div id="korean_peninsula_timeline" style="width: 1500px; height: 500px;"></div>
+<div id="footer">Created by Hamed Hassanpour, Teddy Hsieh, Ellie Park, Keyla Santisteban, Robbie Watson, and Cody Wilson,<BR>
+students in Prof. <a href="http://benread.net">Benjamin L. Read</a>'s seminar at the University of California Washington Center, Fall 2013</div>
