@@ -4,7 +4,7 @@ title: Teaching
 ---
 ## Links and information for students
 
-[Course sites](http://canvas.ucsc.edu/), pointers on [how to read](how-to-read.html) in college, [absence form](absence.pdf), guidelines for [presentations](presentations.html), guidelines for [reading responses](reading-responses.html), [research sources](research-sources.html) on comparative and international politics, information about [citing sources and avoiding plagiarism](citing-sources.html), citation [format requirements](http://politics.ucsc.edu/undergraduate/citation.html), [checklist](checklist-for-written-work.htm) for all written work
+[Course sites](http://canvas.ucsc.edu/), pointers on [how to read](how-to-read.html) in college, [absence form](absence.pdf), guidelines for [presentations](presentations.html), guidelines for [reading responses](reading-responses.html), [research sources](research-sources.html) on comparative and international politics, information about [citing sources and avoiding plagiarism](citing-sources.html), citation [format requirements](http://politics.ucsc.edu/undergraduate/citation.html), [checklist](checklist-for-written-work.html) for all written work
 
 What should you call me? I ask that currently enrolled undergraduate students call me "Professor Read." All others should feel free to call me "Ben."
 
