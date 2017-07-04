@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Commentary and Reviews
-subtitle: Ben Read / commentary
 ---
 ## Commentary
 

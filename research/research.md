@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-subtitle: Ben Read / research
 ---
 In my research projects to date I have studied grassroots-level organizations in East Asia, of two different varieties. The process of trying to acquire valid and useful information about such organizations has also stimulated me to write about methods, a third topic.
 
