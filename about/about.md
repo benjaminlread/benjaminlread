@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 <div style="text-align:center" markdown="1">
-![photo of ben read](BLR_Taipei_2006-03-21.jpg)
+![photo of ben read](../images/BLR_Taipei_2006-03-21.jpg)
 </div>
 
 ## Professional information
