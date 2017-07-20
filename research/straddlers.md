@@ -32,7 +32,7 @@ Lan T. <u>Chu</u>
 + Ch. 8: State Shaping of Community-Level Politics: Residents' Committees in Singapore [[abstract](#8ooi)]  
 <u>Ooi</u> Giok Ling
 
-## Abstracts
+## <a name="abstracts"></a>Abstracts
 
 ### <a name="1read"></a>State-Linked Associational Life: Illuminating Blind Spots of Existing Paradigms
 Chapter 1  

@@ -32,7 +32,7 @@ I've also co-edited a book in which contributors compare varieties of such state
 ![cover of straddling state and society](../images/straddlers_cover_197x300.jpg)
 </div>
 
-+ <u>Local Organizations and Urban Governance in East and Southeast Asia: Straddling State and Society</u>, edited by Benjamin L. Read with [Robert Pekkanen](http://www.robertpekkanen.com), Routledge 2009 [[table of contents](straddlers.html)] [[abstracts](Straddlers.htm#Abstracts)] [[publisher's page](http://www.routledgeasianstudies.com/books/Local-Organizations-and-Urban-Governance-in-East-and-Southeast-Asia-isbn9780415492997)]
++ <u>Local Organizations and Urban Governance in East and Southeast Asia: Straddling State and Society</u>, edited by Benjamin L. Read with [Robert Pekkanen](http://www.robertpekkanen.com), Routledge 2009 [[table of contents](straddlers.html)] [[abstracts](straddlers.html#abstracts)] [[publisher's page](http://www.routledgeasianstudies.com/books/Local-Organizations-and-Urban-Governance-in-East-and-Southeast-Asia-isbn9780415492997)]
 
 ### Articles and book chapters from this project:
 
