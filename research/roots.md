@@ -2,6 +2,10 @@
 layout: page
 title: Roots of the State
 ---
+<div style="text-align:center" markdown="1">
+![cover of roots of the state](../images/roots_cover_300x450.jpg)
+</div>
+
 <u>Roots of the State: Neighborhood Organization and Social Networks in Beijing and Taipei</u>  
 Benjamin L. Read  
 Stanford University Press, 2012

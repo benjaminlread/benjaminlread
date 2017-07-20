@@ -2,6 +2,9 @@
 layout: page
 title: Local Organizations and Urban Governance in East and Southeast Asia
 ---
+<div style="text-align:center" markdown="1">
+![cover of straddling state and society](../images/straddlers_cover_295x450.jpg)
+</div>
 
 <u>Local Organizations and Urban Governance in East and Southeast Asia:  
 Straddling State and Society</u>  

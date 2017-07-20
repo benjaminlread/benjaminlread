@@ -3,7 +3,7 @@ layout: page
 title: Field Research in Political Science
 ---
 <div style="text-align:center" markdown="1">
-![cover of roots of the state](../images/roots_cover_300x450.jpg)
+![cover of field research in political science](../images/frps_cover_318x450.jpg)
 </div>
 
 <u>Field Research in Political Science: Practices and Principles</u>  
