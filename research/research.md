@@ -2,7 +2,13 @@
 layout: page
 title: Research
 ---
-In my research projects to date I have studied grassroots-level organizations in East Asia, of two different varieties. The process of trying to acquire valid and useful information about such organizations has also stimulated me to write about methods, a third topic.
+My research centers on local and grassroots politics in East Asia, mainly China and Taiwan. The process of trying to learn about these things has also stimulated me to write about field research methods. Here is an overview of my work, organized by topic.
+
+## Local Democracy in Taiwan
+
+In Taiwan, as elsewhere, studies of democracy focus most on the national level. Here, I examine democratic practices and processes at the local level, particularly cities. The campaigns and activities of city councilors and neighborhood leaders provide a window on the workings of Taiwan's political system in ways that connect with ordinary people's lives. I'm still in the early stages of this project, actively conducting fieldwork.
+
++ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," a chapter in an in-progress volume, <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy,</u> edited by Ashley Esarey and Ryan Dunch.
 
 ## State-Fostered Organizations
 

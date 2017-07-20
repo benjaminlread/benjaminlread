@@ -2,6 +2,10 @@
 layout: page
 title: Field Research in Political Science
 ---
+<div style="text-align:center" markdown="1">
+![cover of roots of the state](../images/roots_cover_300x450.jpg)
+</div>
+
 <u>Field Research in Political Science: Practices and Principles</u>  
 By Diana <u>Kapiszewski</u> (Georgetown University), Lauren M. <u>MacLean</u> (Indiana University), and Benjamin L. <u>Read</u> (University of California, Santa Cruz)  
 Cambridge University Press 2015
