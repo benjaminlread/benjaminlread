@@ -55,7 +55,7 @@ In other work, I've examined groups that are largely autonomous from state fundi
 + "Inadvertent Political Reform via Private Associations: Assessing Homeowners' Groups in New Neighborhoods," in Elizabeth J. Perry and Merle Goldman, eds., <u>Grassroots Political Reform in Contemporary China</u> (Cambridge, Mass.: Harvard University Press, 2007), pp. 149-173 [[pdf](../publications/ReadBenjaminL_2007_InadvertentPoliticalReform.pdf)]
 + "Democratizing the Neighborhood? New Private Housing and Homeowner Self-Organization in Urban China," <u>The China Journal</u>, Issue 49 (January 2003), pp. 31-59 [[pdf](../publications/ReadBenjaminL_2003_ChinaJ_DemocratizingTheNeighbourhood.pdf), reprinted in Jonathan Unger, ed. <u>Associations and the Chinese State: Contested Spaces</u> (Armonk, NY: M.E. Sharpe, 2008), pp. 216-252
 
-## Qualitative and Mixed Methods
+## Field Research Methods
 
 Ever since my dissertation fieldwork I have felt that studying topics like mine (and many others in the political world) all but requires the use of ethnographic techniques such as participant observation. Other approaches, like standard interviews and questionnaire surveys, are also valuable for what I do. But to the extent that politics has <u>hidden</u> and <u>subtle</u> aspects, as it usually does, there is an important place for methods based on observing people as they go about their ordinary work or activities in an up-close and prolonged way.
 
