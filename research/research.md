@@ -6,7 +6,7 @@ My research centers on local and grassroots politics in East Asia, mainly China 
 
 ## Local Democracy in Taiwan
 
-In Taiwan, as elsewhere, studies of democracy focus most on the national level. Here, I examine democratic practices and processes at the local level, particularly cities. The campaigns and activities of city councilors and neighborhood leaders provide a window on the workings of Taiwan's political system in ways that connect with ordinary people's lives. I'm still in the early stages of this project, actively conducting fieldwork.
+In Taiwan, as elsewhere, studies of democracy focus most on the national level. Here, I examine democratic practices and processes at the local level, particularly cities. The campaigns and activities of city councilors and neighborhood leaders provide a window on the workings of Taiwan's political system in ways that connect with ordinary people's lives. I'm still in the early stages of this project, actively conducting fieldwork and building on my earlier work on grassroots politics.
 
 + "Neighborhood Politics in Taipei: Democracy at the Most Local Level," a chapter in an in-progress volume, <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy,</u> edited by Ashley Esarey and Ryan Dunch.
 
