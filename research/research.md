@@ -59,7 +59,7 @@ In other work, I've examined groups that are largely autonomous from state fundi
 
 Ever since my dissertation fieldwork I have felt that studying topics like mine (and many others in the political world) all but requires the use of ethnographic techniques such as participant observation. Other approaches, like standard interviews and questionnaire surveys, are also valuable for what I do. But to the extent that politics has <u>hidden</u> and <u>subtle</u> aspects, as it usually does, there is an important place for methods based on observing people as they go about their ordinary work or activities in an up-close and prolonged way.
 
-With Diana Kapiszewski and Lauren Mathews Morris MacLean, I've written a book that covers these matters and many other topics related to on-the-ground research:
+With Diana Kapiszewski and Lauren MacLean, I've written a book that covers these matters and many other topics related to on-the-ground research:
 
 <div style="text-align:center" markdown="1">
 ![cover of field research in political science](../images/frps_cover_212x300.jpg)
@@ -69,6 +69,7 @@ With Diana Kapiszewski and Lauren Mathews Morris MacLean, I've written a book th
 
 ### Articles and book chapters from this project:
 
++ "The Value of Field Research: Processes and Principles" (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), in the [Oxford Research Encyclopedia of Politics](http://politics.oxfordre.com), forthcoming.
 + "More than an Interview, Less than Sedaka: Studying Subtle and Hidden Politics with Site-Intensive Methods," in Allen Carlson, Mary E. Gallagher, Kenneth Lieberthal and Melanie Manion, eds., <u>Contemporary Chinese Politics: New Sources, Methods, and Field Strategies</u> (Cambridge: Cambridge University Press, 2010), pp. 145-161 [[pdf](../publications/ReadBenjaminL_2010_MoreThanAnInterview.pdf)]
 + "Introduction," and "Site-Intensive Methods: Fenno and Scott in Search of a Coalition" in a symposium titled "Field Research: How Rich? How Thick? How Participatory?" <u>Qualitative Methods</u> [newsletter of the American Political Science Association Organized Section on Qualitative Methods] Vol. 4, No. 2 (Fall 2006), pp. 9-13
 + "Fieldwork: Learning How to Get the Information You Need," <u>Contemporary China Newsletter</u> [Dangdai Zhongguo Yanjiu, Center for Contemporary China, National Tsing Hua University, Taiwan] No. 7 (October 31, 2006), pp. 22-26
