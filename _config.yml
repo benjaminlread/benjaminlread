@@ -3,3 +3,5 @@ encoding: UTF-8
 kramdown:
   # parse markdown inside block-level HTML tag (for "UCSC on one page" two columns)
   parse_block_html: true
+# Google Analytics
+google_analytics: UA—106134385-1
