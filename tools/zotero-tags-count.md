@@ -2,7 +2,7 @@
 layout: page
 title: Frequency Count of Zotero Tags via Stata
 ---
-This do-file generates a list of tags (keywords) in a Zotero library. In the results, each observation contains a tag and a count of the number of times that tag appears in the Zotero library. The Zotero library must be exported to .csv format first. Assumes you want to include both manual tags and automatic tags, but could include only the former or the latter.</P>
+This do-file generates a list of tags (keywords) in a Zotero library. In the results, each observation contains a unique tag and a count of the number of times that tag appears in the Zotero library. Before running this do-file, you must first export your library from Zotero in .csv format (File --> Export library). Zotero contains two kinds of tags, "manual" (applied by the user) and "automatic" (retrieved from e.g. library databases). This code assumes you want to include both manual tags and automatic tags, but if you wish you can exclude one or the other type.
 
 ## tag_count.do
 
