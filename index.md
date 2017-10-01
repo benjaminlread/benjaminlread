@@ -4,6 +4,8 @@ title: Ben Read
 subtitle: Politics from China to Taiwan, and from ethnography to Stata
 ---
 
+![image of partially obscured temple in taipei](../images/front_image.jpg)
+
 ## Welcome 歡迎
 
 I'm an associate professor of [Politics](https://politics.ucsc.edu/) at the [University of California, Santa Cruz](https://www.ucsc.edu/index.html); more about me [here](about/about.html), including office hours, contact information, and CV.
