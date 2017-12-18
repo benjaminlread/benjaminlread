@@ -36,6 +36,7 @@ I've also co-edited a book in which contributors compare varieties of such state
 
 ### Articles and book chapters from this project:
 
++ "Village Dispute Mediation, 2002–2010: An Enduring Institution amid Rural Change" (Benjamin L. Read and Ethan Michelson), <u>Asian Journal of Law and Society</u>, forthcoming
 + "Theoretical Approaches to Neighborhood Governance: Searching for Lost Treasure and Comparative Frameworks," in Ngai-Ming Yip, ed., <u>Neighborhood Governance in Urban China</u> (Cheltenham, UK: Edward Elgar, 2014), pp. 25–39 [[pdf](../publications/ReadBenjaminL_2014_TheoreticalApproachesToNeighbourhoodGovernance.pdf)]
 + "Public Attitudes toward Official Justice in Beijing and Rural China" (Ethan Michelson and Benjamin L. Read), in Margaret Y. K. Woo and Mary E. Gallagher, eds., <u>Chinese Justice: Civil Dispute Resolution in Contemporary China</u> (Cambridge: Cambridge University Press, 2011), pp. 169-203 [[pdf](../publications/Michelson-Read_2011_AttitudesTowardOfficialJustice.pdf)]
 + "Mediating the Mediation Debate: Conflict Resolution and the Local State in China" (Benjamin L. Read and Ethan Michelson), <u>Journal of Conflict Resolution</u> Vol. 52, No. 5 (October 2008), pp. 737-764 [[abstract](http://jcr.sagepub.com/cgi/content/abstract/52/5/737)] [[pdf](../publications/Read-Michelson_2008_JCR_Mediation.pdf)] [[unabridged tables](../publications/Mediation_FullTables.doc)] [[replication](../publications/Mediation_Replication.zip)]
@@ -69,7 +70,7 @@ With Diana Kapiszewski and Lauren MacLean, I've written a book that covers these
 
 ### Articles and book chapters from this project:
 
-+ "The Value of Field Research: Processes and Principles" (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), in the [Oxford Research Encyclopedia of Politics](http://politics.oxfordre.com), forthcoming
++ "Reconceptualizing Field Research" (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), in the [Oxford Research Encyclopedia of Politics](http://politics.oxfordre.com), forthcoming
 + "More than an Interview, Less than Sedaka: Studying Subtle and Hidden Politics with Site-Intensive Methods," in Allen Carlson, Mary E. Gallagher, Kenneth Lieberthal and Melanie Manion, eds., <u>Contemporary Chinese Politics: New Sources, Methods, and Field Strategies</u> (Cambridge: Cambridge University Press, 2010), pp. 145-161 [[pdf](../publications/ReadBenjaminL_2010_MoreThanAnInterview.pdf)]
 + "Introduction," and "Site-Intensive Methods: Fenno and Scott in Search of a Coalition" in a symposium titled "Field Research: How Rich? How Thick? How Participatory?" <u>Qualitative Methods</u> [newsletter of the American Political Science Association Organized Section on Qualitative Methods] Vol. 4, No. 2 (Fall 2006), pp. 9-13
 + "Fieldwork: Learning How to Get the Information You Need," <u>Contemporary China Newsletter</u> [Dangdai Zhongguo Yanjiu, Center for Contemporary China, National Tsing Hua University, Taiwan] No. 7 (October 31, 2006), pp. 22-26
