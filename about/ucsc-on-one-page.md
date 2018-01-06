@@ -11,7 +11,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 
 &nbsp;&nbsp;[UCSC home](http://www.ucsc.edu/)  
 &nbsp;&nbsp;[Chancellor](http://chancellor.ucsc.edu/)  
-&nbsp;&nbsp;[Campus Provost / EVC](http://www1.ucsc.edu/administration/evc/)  
+&nbsp;&nbsp;[Campus Provost / EVC](http://cpevc.ucsc.edu/)  
 &nbsp;&nbsp;[Academic Senate](http://senate.ucsc.edu/)
 
 ### Academic Units under EVC
@@ -101,12 +101,12 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 
 &nbsp;&nbsp;[Astronomy & Astrophysics](http://www.astro.ucsc.edu/)  
 &nbsp;&nbsp;[Chemistry & Biochemistry](http://chemistry.ucsc.edu/)  
-&nbsp;&nbsp;[Earth & Planetary Sciences](http://es.ucsc.edu/)  
+&nbsp;&nbsp;[Earth & Planetary Sciences](http://eps.ucsc.edu/)  
 &nbsp;&nbsp;[Ecology & Evolutionary Biology](http://eeb.ucsc.edu/)  
 &nbsp;&nbsp;[Mathematics](http://math.ucsc.edu/)  
-&nbsp;&nbsp;[Microbiology & Environmental Toxicology](http://etox.ucsc.edu/)  
+&nbsp;&nbsp;[Microbiology & Environmental Toxicology](http://metx.ucsc.edu/)  
 &nbsp;&nbsp;[Molecular Cell & Developmental Biology](http://www.mcd.ucsc.edu/)  
-&nbsp;&nbsp;[Ocean Sciences](http://oceansci.ucsc.edu/)  
+&nbsp;&nbsp;[Ocean Sciences](http://oceansci.ucsc.edu/)
 &nbsp;&nbsp;[Physics](http://physics.ucsc.edu/)  
 &nbsp;&nbsp;[Science Communication](http://scicom.ucsc.edu/)
 
