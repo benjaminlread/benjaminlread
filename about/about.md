@@ -30,4 +30,4 @@ email: bread (at) ucsc (dot) edu
 
 ## Office hours
 
-From 10/3/2017 through 12/5/2017, Tuesdays 1-4pm in Merrill Faculty Annex 157, and by appointment.
+From 1/9/2018 through 3/13/2018, Tuesdays 2:30-4:30pm in Merrill Faculty Annex 157, and by appointment.
