@@ -9,16 +9,16 @@ title: Teaching
 What should you call me? I suggest that currently enrolled undergraduate students call me "Professor Read." All others should feel free to call me "Ben."
 
 ## Future courses
-Later in the 2017-18 academic year I expect to teach: Poli 190t, <u>Governance and Conflict in East Asia</u> (winter); and Poli 140d, <u>Politics of East Asia</u> (spring). See below for previous syllabi of these courses.
+In the spring of 2018 I expect to teach Poli 140d, <u>Politics of East Asia</u>. See below for previous syllabi.
 
 ## Current courses
-+ Poli 141, <u>Politics of China</u>, Fall 2017 [[syllabus](Politics 141 - 2017fa - Syllabus.pdf)]
++ Poli 190t, <u>Governance and Conflict in East Asia</u>, Spring 2012 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2014 [[syllabus](Politics 60 - 2014wi - Syllabus.pdf)]
 + Poli 140d, <u>Politics of East Asia</u>, Fall 2016 [[syllabus](Politics 140d - 2016fa - Syllabus.pdf)]
++ Poli 141, <u>Politics of China</u>, Fall 2017 [[syllabus](Politics 141 - 2017fa - Syllabus.pdf)]
 + Poli 161, <u>Foreign Relations of China</u>, Winter 2017 [[syllabus](Politics 161 - 2017wi - Syllabus.pdf)] [[Korean Peninsula timeline](../visualizations/korean_peninsula_timeline.html)]
-+ Poli 190t, <u>Governance and Conflict in East Asia</u>, Spring 2012 [[syllabus](Politics 190t - 2012sp - Syllabus.pdf)]
 + Poli 200b, <u>Social Forces and Political Change</u>, graduate seminar, Winter 2015 [[syllabus](Politics 200b - 2015wi - Syllabus.pdf)]
 + Poli 210, <u>Problems of Democracy in Comparative Perspective</u>, graduate seminar, Spring 2016 [[syllabus](Politics 210 - 2016sp - Problems of Democracy - Syllabus.pdf)]
 + Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>, graduate seminar, Spring 2014 [[syllabus](Politics 261 - 2014sp - Syllabus.pdf)]
