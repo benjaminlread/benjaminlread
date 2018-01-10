@@ -12,7 +12,7 @@ What should you call me? I suggest that currently enrolled undergraduate student
 In the spring of 2018 I expect to teach Poli 140d, <u>Politics of East Asia</u>. See below for previous syllabi.
 
 ## Current courses
-+ Poli 190t, <u>Governance and Conflict in East Asia</u>, Spring 2012 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
++ Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2014 [[syllabus](Politics 60 - 2014wi - Syllabus.pdf)]
