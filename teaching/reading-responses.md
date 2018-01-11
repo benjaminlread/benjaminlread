@@ -4,9 +4,18 @@ title: Reading-Response Papers
 ---
 ## Instructions for undergraduates
 
-Reading responses should be one to two paragraphs in length &mdash; a little longer if you get inspired. They must be double spaced, and printed in 11 or 12 point font. No cover page is necessary, but be sure not to leave out your name and the date. I expect your reading response to be carefully proofread and free from typographical and grammatical errors. Turn in a hard copy of your response in class.
+Reading responses should be one to two paragraphs in length &mdash; a little longer if you get inspired. I expect your reading response to be carefully proofread and free from typographical and grammatical errors.
 
-Your reading response should constitute an answer to one of the discussion questions assigned for that day. What you write should contain very little recapping or summarizing of the readings; just enough to make the argument that you want to make.
+What you write should contain very little recapping or summarizing of the readings; if any, just enough to make the argument that you want to make.
+
+Some ideas about what to write about:
+
++ What is interesting about this reading?
++ What did you not expect about it?
++ How convincing is the evidence?
++ What questions or issues in this reading are worth discussing in class? How would you suggest that the class begin such a discussion?
+
+Please also see the questions in [How to Read in College](how-to-read.html).
 
 ## Instructions for graduate students
 
