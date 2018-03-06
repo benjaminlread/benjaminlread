@@ -8,7 +8,10 @@ My research centers on local and grassroots politics in East Asia, mainly China 
 
 In Taiwan, as elsewhere, studies of democracy focus most on the national level. Here, I examine democratic practices and processes at the local level, particularly cities. The campaigns and activities of city councilors and neighborhood leaders provide a window on the workings of Taiwan's political system in ways that connect with ordinary people's lives. I'm still in the early stages of this project, actively conducting fieldwork and building on my earlier work on grassroots politics.
 
+### Articles and book chapters from this project:
+
 + "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u>, forthcoming at the University of Washington Press
++ "China–Taiwan Comparisons: Still Promising Though Not 'Ideal'," <u>Harvard Workshop on Chinese Politics</u>, February 23, 2018 [[pdf](http://cnpoliticsworkinggroup.org/wp-content/uploads/2018/02/Ben-Read_China-Taiwan-Comparisons.pdf)]
 
 ## State-Fostered Organizations
 
@@ -36,7 +39,7 @@ I've also co-edited a book in which contributors compare varieties of such state
 
 ### Articles and book chapters from this project:
 
-+ "Village Dispute Mediation, 2002–2010: An Enduring Institution amid Rural Change" (Benjamin L. Read and Ethan Michelson), <u>Asian Journal of Law and Society</u>, forthcoming
++ "Village Dispute Mediation, 2002–2010: An Enduring Institution amid Rural Change" (Benjamin L. Read and Ethan Michelson), <u>Asian Journal of Law and Society</u>, published online February 14, 2018 [[journal](https://www-cambridge-org.oca.ucsc.edu/core/journals/asian-journal-of-law-and-society/article/village-dispute-mediation-in-china-200210-an-enduring-institution-amid-rural-change/2832CFE41040C7051D0D860DFB801502)] [[pdf](../publications/Read-Michelson_2018_Village_Dispute_Mediation_in_China_2002-10.pdf)]
 + "Theoretical Approaches to Neighborhood Governance: Searching for Lost Treasure and Comparative Frameworks," in Ngai-Ming Yip, ed., <u>Neighborhood Governance in Urban China</u> (Cheltenham, UK: Edward Elgar, 2014), pp. 25–39 [[pdf](../publications/ReadBenjaminL_2014_TheoreticalApproachesToNeighbourhoodGovernance.pdf)]
 + "Public Attitudes toward Official Justice in Beijing and Rural China" (Ethan Michelson and Benjamin L. Read), in Margaret Y. K. Woo and Mary E. Gallagher, eds., <u>Chinese Justice: Civil Dispute Resolution in Contemporary China</u> (Cambridge: Cambridge University Press, 2011), pp. 169-203 [[pdf](../publications/Michelson-Read_2011_AttitudesTowardOfficialJustice.pdf)]
 + "Mediating the Mediation Debate: Conflict Resolution and the Local State in China" (Benjamin L. Read and Ethan Michelson), <u>Journal of Conflict Resolution</u> Vol. 52, No. 5 (October 2008), pp. 737-764 [[abstract](http://jcr.sagepub.com/cgi/content/abstract/52/5/737)] [[pdf](../publications/Read-Michelson_2008_JCR_Mediation.pdf)] [[unabridged tables](../publications/Mediation_FullTables.doc)] [[replication](../publications/Mediation_Replication.zip)]
