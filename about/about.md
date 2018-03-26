@@ -15,7 +15,7 @@ Here is my [curriculum vitae](BenRead-CurriculumVitae.pdf), my [UCSC profile](ht
 More about [UC Santa Cruz](http://www.ucsc.edu/), a [one-page overview of UCSC](ucsc-on-one-page.html), the [Politics Department](http://politics.ucsc.edu), and the [East Asian Studies](http://eastasianstudies.ucsc.edu/index.html) program.
 
 ## Bio
-Born in Madison, Wisc., Ben Read spent a year of his childhood in the Dutch village of Overasselt and another in socialist Beijing, undergoing indoctrination at public schools in all three localities. He later rounded out his education at Cornell, UC Berkeley, and Harvard. Ben has worked and studied in mainland China for a total of nearly six years and Taiwan for six months, and speaks Mandarin fluently. Following graduate training, he taught at the University of Iowa before joining the Politics faculty at UC Santa Cruz in the summer of 2008. He enjoys hiking and mountain biking, and is an instrument-rated private pilot.
+Born in Madison, Wisconsin, Ben Read spent a year of his childhood in the Dutch village of Overasselt and another in socialist Beijing, undergoing indoctrination at public schools in all three localities. He later studied at Cornell, UC Berkeley, and Harvard. Fluent in Mandarin, Ben has lived, worked, and conducted fieldwork in mainland China for a total of nearly six years and in Taiwan for one year. He taught at the University of Iowa before joining the Politics faculty at UC Santa Cruz in 2008. He enjoys road biking, mountain biking, and hiking, and is an instrument-rated private pilot.
 
 ## Contact information
 
