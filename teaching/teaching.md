@@ -10,8 +10,8 @@ What should you call me? I suggest that currently enrolled undergraduate student
 
 ## Future courses
 + In the spring of 2018 I expect to teach Poli 140d, <u>Politics of East Asia</u>.
-+ In fall 2018 I'll be on sabbatical leave.
-+ In winter 2019 I'll teach Poli 161, <u>Foreign Relations of China</u>.
++ In Fall 2018 I'll be on sabbatical leave.
++ In Winter 2019 I'll teach Poli 161, <u>Foreign Relations of China</u>.
 + Then in Spring 2019 I'll teach Poli 140d and Poli 141, <u>Politics of China</u>. See below for these courses' most recent syllabi.
 
 ## Current courses
