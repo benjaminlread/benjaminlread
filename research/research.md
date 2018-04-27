@@ -69,7 +69,7 @@ With Diana Kapiszewski and Lauren MacLean, I've written a book that covers these
 ![cover of field research in political science](../images/frps_cover_212x300.jpg)
 </div>
 
-+ <u>Field Research in Political Science: Practices and Principles</u>, Cambridge University Press 2015 [[abstract](frps.html)] [[publisher's page](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/field-research-political-science-practices-and-principles) [[project site](http://www.psfieldresearch.org/)] [[Amazon page](http://www.amazon.com/Field-Research-Political-Science-Principles/dp/0521184835/)]
++ <u>Field Research in Political Science: Practices and Principles</u>, Cambridge University Press 2015 [[abstract](frps.html)] [[publisher's page](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/field-research-political-science-practices-and-principles)] [[project site](http://www.psfieldresearch.org/)] [[Amazon page](http://www.amazon.com/Field-Research-Political-Science-Principles/dp/0521184835/)]
 
 ### Articles and book chapters from this project:
 
