@@ -106,7 +106,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 &nbsp;&nbsp;[Mathematics](http://math.ucsc.edu/)  
 &nbsp;&nbsp;[Microbiology & Environmental Toxicology](http://metx.ucsc.edu/)  
 &nbsp;&nbsp;[Molecular Cell & Developmental Biology](http://www.mcd.ucsc.edu/)  
-&nbsp;&nbsp;[Ocean Sciences](http://oceansci.ucsc.edu/)
+&nbsp;&nbsp;[Ocean Sciences](http://oceansci.ucsc.edu/)  
 &nbsp;&nbsp;[Physics](http://physics.ucsc.edu/)  
 &nbsp;&nbsp;[Science Communication](http://scicom.ucsc.edu/)
 
