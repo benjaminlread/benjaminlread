@@ -17,19 +17,20 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 ### Academic Units under EVC
 
 &nbsp;&nbsp;[Academic Affairs](http://academicaffairs.ucsc.edu/)  
+&nbsp;&nbsp;[Global Engagement](http://global.ucsc.edu/)  
 &nbsp;&nbsp;[Graduate Division](http://graddiv.ucsc.edu/)  
 &nbsp;&nbsp;[Library](http://library.ucsc.edu/)  
-&nbsp;&nbsp;[Research](http://research.ucsc.edu/)  
 &nbsp;&nbsp;[Silicon Valley Initiatives](http://svi.ucsc.edu/)  
 &nbsp;&nbsp;[UCSC Extension](http://www.ucsc-extension.edu/)  
-&nbsp;&nbsp;[Undergraduate Education](http://vpdue.ucsc.edu/)
+&nbsp;&nbsp;[Undergraduate Education](http://undergraduate.ucsc.edu/)
 
 ### Administrative Units under EVC
 &nbsp;&nbsp;[Business & Admin. Services](http://bas.ucsc.edu/)  
 &nbsp;&nbsp;[Campus Counsel](https://lex.ucsc.edu)  
 &nbsp;&nbsp;[Information Technology](http://its.ucsc.edu/)  
 &nbsp;&nbsp;[Planning & Budget](http://planning.ucsc.edu/)  
-&nbsp;&nbsp;[Student Services](http://studentaffairs.ucsc.edu/)  
+&nbsp;&nbsp;[Research](http://officeofresearch.ucsc.edu/)  
+&nbsp;&nbsp;[Student Success](http://studentsuccess.ucsc.edu/)  
 &nbsp;&nbsp;[University Relations](http://urelations.ucsc.edu/)
 
 ### Colleges
@@ -105,7 +106,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 &nbsp;&nbsp;[Ecology & Evolutionary Biology](http://eeb.ucsc.edu/)  
 &nbsp;&nbsp;[Mathematics](http://math.ucsc.edu/)  
 &nbsp;&nbsp;[Microbiology & Environmental Toxicology](http://metx.ucsc.edu/)  
-&nbsp;&nbsp;[Molecular Cell & Developmental Biology](http://www.mcd.ucsc.edu/)  
+&nbsp;&nbsp;[Molecular, Cell & Developmental Biology](http://www.mcd.ucsc.edu/)  
 &nbsp;&nbsp;[Ocean Sciences](http://oceansci.ucsc.edu/)  
 &nbsp;&nbsp;[Physics](http://physics.ucsc.edu/)  
 &nbsp;&nbsp;[Science Communication](http://scicom.ucsc.edu/)
