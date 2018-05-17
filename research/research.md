@@ -10,7 +10,7 @@ In Taiwan, as elsewhere, studies of democracy focus most on the national level. 
 
 ### Articles and book chapters from this project:
 
-+ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u>, under review at the University of Washington Press
++ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u>, University of Washington Press, revised manuscript under review
 + "China–Taiwan Comparisons: Still Promising Though Not 'Ideal'," <u>Harvard Workshop on Chinese Politics</u>, February 23, 2018 [[pdf](http://cnpoliticsworkinggroup.org/wp-content/uploads/2018/02/Ben-Read_China-Taiwan-Comparisons.pdf)] [[all papers](http://cnpoliticsworkinggroup.org/index.php/harvard-workshop-memos/)]
 
 ## State-Fostered Organizations
@@ -73,6 +73,7 @@ With Diana Kapiszewski and Lauren MacLean, I've written a book that covers these
 
 ### Articles and book chapters from this project:
 
++ "Serial Interviews: When and Why to Talk to Someone More than Once," <u>International Journal of Qualitative Methods,</u> accepted and in production
 + "Reconceptualizing Field Research in Political Science" (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), in the [Oxford Research Encyclopedia of Politics](http://politics.oxfordre.com) [[html](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-722)] [[pdf](../publications/Kapiszewski_MacLean_Read_2018_Reconceptualizing_Field_Research_in_PS.pdf)]
 + "More than an Interview, Less than Sedaka: Studying Subtle and Hidden Politics with Site-Intensive Methods," in Allen Carlson, Mary E. Gallagher, Kenneth Lieberthal and Melanie Manion, eds., <u>Contemporary Chinese Politics: New Sources, Methods, and Field Strategies</u> (Cambridge: Cambridge University Press, 2010), pp. 145-161 [[pdf](../publications/ReadBenjaminL_2010_MoreThanAnInterview.pdf)] [[中文版](../publications/ReadBenjaminL_2014_MoreThanAnInterview_InChinese.pdf)]
 + "Introduction," and "Site-Intensive Methods: Fenno and Scott in Search of a Coalition" in a symposium titled "Field Research: How Rich? How Thick? How Participatory?" <u>Qualitative Methods</u> [newsletter of the American Political Science Association Organized Section on Qualitative Methods] Vol. 4, No. 2 (Fall 2006), pp. 9-13
