@@ -73,6 +73,7 @@ With Diana Kapiszewski and Lauren MacLean, I've written a book that covers these
 
 ### Articles and book chapters from this project:
 
++ "Problems and Possibilities of Comparison Across Regime Types," <u>Qualitative and Multi-Method Research</u>, accepted pending revisions
 + "Serial Interviews: When and Why to Talk to Someone More than Once," <u>International Journal of Qualitative Methods,</u> first published June 26, 2018 [[journal](https://doi.org/10.1177/1609406918783452)] [[pdf](../publications/ReadBenjaminL_2018_Serial_Interviews_-_When_and_Why_to_Talk_to_Someone_More_than_Once.pdf)]
 + "Reconceptualizing Field Research in Political Science" (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), in the [Oxford Research Encyclopedia of Politics](http://politics.oxfordre.com) [[html](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-722)] [[pdf](../publications/Kapiszewski_MacLean_Read_2018_Reconceptualizing_Field_Research_in_PS.pdf)]
 + "More than an Interview, Less than Sedaka: Studying Subtle and Hidden Politics with Site-Intensive Methods," in Allen Carlson, Mary E. Gallagher, Kenneth Lieberthal and Melanie Manion, eds., <u>Contemporary Chinese Politics: New Sources, Methods, and Field Strategies</u> (Cambridge: Cambridge University Press, 2010), pp. 145-161 [[pdf](../publications/ReadBenjaminL_2010_MoreThanAnInterview.pdf)] [[中文版](../publications/ReadBenjaminL_2014_MoreThanAnInterview_InChinese.pdf)]
