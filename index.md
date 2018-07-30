@@ -16,4 +16,4 @@ Under [commentary](commentary/commentary.html) you'll find essays, interviews, a
 
 The [teaching](teaching/teaching.html) page includes my course schedule, syllabi, and resources for students.
 
-[Tools](tools/tools.html) houses a few endeavors related to software, code, and aviation weather.
+[Tools](tools/tools.html) houses a few endeavors related to the Chinese language, code / software, and aviation.
