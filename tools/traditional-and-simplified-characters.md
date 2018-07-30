@@ -11,7 +11,7 @@ Most of the time, it's pretty easy to recognize a character's simplified or trad
 
 &#8212; Benjamin L. Read, July 30, 2018. Comments, corrections and suggestions welcome.
 
-<TABLE><tr><td colspan="3">Individual character</td><td colspan="3">Sample word group</td></tr>
+<TABLE><tr><td colspan="3" style="text-align:center;">Individual character</td><td colspan="3" style="text-align:center;">Sample word group</td></tr>
 <tr><td>Traditional</td><td>Simplified</td><td>Pinyin</td><td>Traditional</td><td>Simplified</td><td>Pinyin</td></tr>
 <tr><td>辦</td><td>办</td><td>bàn</td><td>辦法</td><td>办法</td><td>bànfǎ</td></tr>
 <tr><td>幫</td><td>帮</td><td>bāng</td><td>幫忙</td><td>帮忙</td><td>bāngmáng</td></tr>
