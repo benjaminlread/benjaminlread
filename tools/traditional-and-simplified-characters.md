@@ -7,7 +7,9 @@ title: Traditional and Simplified Chinese Writing
 
 Maybe you learned Chinese with simplified characters and are making a trip to Hong Kong or Taiwan. Or maybe you learned in Taipei but need to work with mainland documents. Either way, you're working across the gulf created when the PRC started to simplify the writing system in the 1950s.
 
-Most of the time, it's pretty easy to recognize a character's simplified or traditional counterpart. But some are very different from each other. This chart attempts to catalog the most dissimilar characters that one encounters in everyday life, newspapers, and such. You might use this to brush up before a trip, for instance.
+In many cases, such as 門 / 门, it's pretty easy to recognize a character's simplified or traditional counterpart. But some are very different from each other. This chart attempts to catalog the most dissimilar characters that one encounters in everyday life, newspapers, and such. You might use this to brush up before a trip, for instance.
+
+You may need to zoom in on this page to see the characters clearly.
 
 &#8212; Benjamin L. Read, July 30, 2018. Comments, corrections and suggestions welcome.
 
