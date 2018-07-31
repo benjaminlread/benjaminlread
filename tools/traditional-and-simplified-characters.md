@@ -31,6 +31,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>廠</td><td>厂</td><td>chǎng</td><td>工廠</td><td>工厂</td><td>gōngchǎng</td></tr>
 <tr><td>遲</td><td>迟</td><td>chí</td><td>遲鈍</td><td>迟钝</td><td>chídùn</td></tr>
 <tr><td>蟲</td><td>虫</td><td>chóng</td><td>蟲子</td><td>虫子</td><td>chóngzi</td></tr>
+<tr><td>醜</td><td>丑</td><td>chǒu</td><td>醜陋</td><td>丑陋</td><td>chǒulòu</td></tr>
 <tr><td>處</td><td>处</td><td>chù</td><td>處理</td><td>处理</td><td>chùlǐ</td></tr>
 <tr><td>觸</td><td>触</td><td>chù</td><td>接觸</td><td>接触</td><td>jiēchù</td></tr>
 <tr><td>傳</td><td>传</td><td>chuán</td><td>傳單</td><td>传单</td><td>chuándān</td></tr>
@@ -56,6 +57,8 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>個</td><td>个</td><td>gè</td><td>每個</td><td>每个</td><td>měigè</td></tr>
 <tr><td>觀</td><td>观</td><td>guān</td><td>觀念</td><td>观念</td><td>guānniàn</td></tr>
 <tr><td>關</td><td>关</td><td>guān</td><td>過關</td><td>过关</td><td>guòguān</td></tr>
+<tr><td>廣</td><td>广</td><td>guǎng</td><td>廣大</td><td>广大</td><td>guǎngdà</td></tr>
+<tr><td>龜</td><td>龟</td><td>guī</td><td>烏龜</td><td>乌龟</td><td>wūguī</td></tr>
 <tr><td>國</td><td>国</td><td>guó</td><td>國家</td><td>国家</td><td>guójiā</td></tr>
 <tr><td>過</td><td>过</td><td>guò</td><td>過關</td><td>过关</td><td>guòguān</td></tr>
 <tr><td>還</td><td>还</td><td>hái</td><td>還是</td><td>还是</td><td>háishì</td></tr>
@@ -93,6 +96,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>瞭</td><td>了</td><td>liǎo</td><td>瞭解</td><td>了解</td><td>liǎojiě</td></tr>
 <tr><td>靈</td><td>灵</td><td>líng</td><td>靈魂</td><td>灵魂</td><td>línghún</td></tr>
 <tr><td>齡</td><td>龄</td><td>líng</td><td>年齡</td><td>年龄</td><td>niánlíng</td></tr>
+<tr><td>劉</td><td>刘</td><td>Liú</td><td>姓劉</td><td>姓刘</td><td>xìng Liú</td></tr>
 <tr><td>樓</td><td>楼</td><td>lóu</td><td>樓房</td><td>楼房</td><td>lóufáng</td></tr>
 <tr><td>亂</td><td>乱</td><td>luàn</td><td>擾亂</td><td>扰乱</td><td>rǎoluàn</td></tr>
 <tr><td>邏</td><td>逻</td><td>luó</td><td>巡邏</td><td>巡逻</td><td>xúnluó</td></tr>
@@ -140,6 +144,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>顯</td><td>显</td><td>xiǎn</td><td>明顯</td><td>明显</td><td>míngxiǎn</td></tr>
 <tr><td>縣</td><td>县</td><td>xiàn</td><td>縣城</td><td>县城</td><td>xiànchéng</td></tr>
 <tr><td>鄉</td><td>乡</td><td>xiāng</td><td>鄉下</td><td>乡下</td><td>xiāngxià</td></tr>
+<tr><td>響</td><td>响</td><td>xiǎng</td><td>音響</td><td>音响</td><td>yīnxiǎng</td></tr>
 <tr><td>脅</td><td>胁</td><td>xié</td><td>威脅</td><td>威胁</td><td>wēixié</td></tr>
 <tr><td>攜</td><td>携</td><td>xié</td><td>攜手</td><td>携手</td><td>xiéshǒu</td></tr>
 <tr><td>釁</td><td>衅</td><td>xìn</td><td>挑釁</td><td>挑衅</td><td>tiǎoxìn</td></tr>
@@ -169,6 +174,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>髒</td><td>脏</td><td>zāng</td><td>髒亂</td><td>脏乱</td><td>zāngluàn</td></tr>
 <tr><td>摺</td><td>折</td><td>zhé</td><td>奏摺</td><td>奏折</td><td>zòuzhé</td></tr>
 <tr><td>徵</td><td>征</td><td>zhēng</td><td>特徵</td><td>特征</td><td>tèzhēng</td></tr>
+<tr><td>鄭</td><td>郑</td><td>Zhèng</td><td>姓鄭</td><td>姓郑</td><td>xìng Zhèng</td></tr>
 <tr><td>織</td><td>织</td><td>zhī</td><td>組織</td><td>组织</td><td>zǔzhī</td></tr>
 <tr><td>眾</td><td>众</td><td>zhòng</td><td>民眾</td><td>民众</td><td>mínzhòng</td></tr>
 <tr><td>準</td><td>准</td><td>zhǔn</td><td>準備</td><td>准备</td><td>zhǔnbèi</td></tr>
