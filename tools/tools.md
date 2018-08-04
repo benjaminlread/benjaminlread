@@ -5,7 +5,7 @@ title: Miscellaneous Tools and Side Projects
 
 ## Chinese Language
 
-+ Traditional and simplified Chinese writing: [A chart](traditional-and-simplified-characters.html) of the most dissimilar common characters
++ A chart of [common Chinese characters whose traditional and simplified forms are highly dissimilar](traditional-and-simplified-characters.html)
 
 ## Code and Software
 
