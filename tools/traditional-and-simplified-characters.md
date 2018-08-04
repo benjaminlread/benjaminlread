@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Traditional and Simplified Chinese Writing
+title: Common Chinese characters whose traditional and simplified forms are highly dissimilar
 ---
 
-## A chart of the most dissimilar common characters
-
-Maybe you learned Chinese with simplified characters and are making a trip to Hong Kong or Taiwan. Or maybe you learned in Taipei but need to work with mainland documents. Either way, you're working across the gulf created when the PRC started to simplify the writing system in the 1950s.
+Maybe you learned Chinese with simplified characters and are making a trip to Hong Kong or Taiwan. Or maybe you learned in Taipei but need to work with mainland documents. Either way, you're crossing the gulf created when the PRC started to simplify the writing system in the 1950s.
 
 In many cases, such as 門 / 门, it's pretty easy to recognize a character's simplified or traditional counterpart. But some are very different from each other. This chart attempts to catalog the most dissimilar characters that one encounters in everyday life, newspapers, and such. You might use this to brush up before a trip, for instance.
 
@@ -13,7 +11,7 @@ You may need to zoom in on this page to see the characters clearly.
 
 &#8212; Benjamin L. Read, July 30, 2018. Comments, corrections and suggestions welcome.
 
-<TABLE><tr><td colspan="3" style="text-align:center;">Individual character</td><td colspan="3" style="text-align:center;">Sample word group</td></tr>
+<TABLE><tr><td colspan="3" style="text-align:center;">Individual character</td><td colspan="3" style="text-align:center;">Example word group</td></tr>
 <tr><td>Traditional</td><td>Simplified</td><td>Pinyin</td><td>Traditional</td><td>Simplified</td><td>Pinyin</td></tr>
 <tr><td>辦</td><td>办</td><td>bàn</td><td>辦法</td><td>办法</td><td>bànfǎ</td></tr>
 <tr><td>幫</td><td>帮</td><td>bāng</td><td>幫忙</td><td>帮忙</td><td>bāngmáng</td></tr>
