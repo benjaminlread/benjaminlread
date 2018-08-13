@@ -3,6 +3,10 @@ layout: page
 title: Miscellaneous Tools and Side Projects
 ---
 
+## Graphs of Taiwanese Politics
+
++ Graphs depicting various aspects of the [politics of Taiwan](../graphics/politics_in_taiwan.html)
+
 ## Chinese Language
 
 + A chart of [common Chinese characters whose traditional and simplified forms are highly dissimilar](traditional-and-simplified-characters.html)

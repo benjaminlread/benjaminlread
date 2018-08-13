@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graphs showing aspects of politics in Taiwan
+title: Graphs of Taiwanese Politics
 ---
 
 ## 台灣民選的縣市長, 1985- <br/>Elected city and county executives in Taiwan, 1985-
@@ -11,3 +11,4 @@ title: Graphs showing aspects of politics in Taiwan
 
 Note: Click image for full-sized version. Elections for the mayors of the cities of Taipei and Kaohsiung were reintroduced in 1994. In 2010, Taichung County, Tainan County, and Kaohsiung County merged with their respective cities.
 
+Comments, corrections, and suggestions welcome.
