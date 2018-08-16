@@ -27,7 +27,7 @@ This book lays out the Chinese and Taiwanese cases in full detail and compares t
 ![cover of roots of the state](../images/roots_cover_200x300.jpg)
 </div>
 
-+ <u>Roots of the State: Neighborhood Organization and Social Networks in Beijing and Taipei</u>, Stanford University Press 2012 [[abstract](roots.html)] [[publisher's page](http://www.sup.org/book.cgi?id=18646)] [[Google books](http://www.amazon.com/Roots-State-Neighborhood-Organization-Contemporary/dp/0804775656)] [[Amazon page](http://www.amazon.com/Roots-State-Neighborhood-Organization-Contemporary/dp/0804775656)]
++ <u>Roots of the State: Neighborhood Organization and Social Networks in Beijing and Taipei</u>, Stanford University Press 2012 [[abstract](roots.html)] [[publisher's page](http://www.sup.org/book.cgi?id=18646)] [[Google books](https://books.google.com/books?id=21_POQoSP4oC)] [[Amazon page](http://www.amazon.com/Roots-State-Neighborhood-Organization-Contemporary/dp/0804775656)]
 
 I've also co-edited a book in which contributors compare varieties of such state-linked organizations in countries throughout the region, including Japan, Indonesia, Thailand, Vietnam, and Singapore:
 
@@ -35,7 +35,7 @@ I've also co-edited a book in which contributors compare varieties of such state
 ![cover of straddling state and society](../images/straddlers_cover_197x300.jpg)
 </div>
 
-+ <u>Local Organizations and Urban Governance in East and Southeast Asia: Straddling State and Society</u>, edited by Benjamin L. Read with [Robert Pekkanen](http://www.robertpekkanen.com), Routledge 2009 [[table of contents](straddlers.html)] [[abstracts](straddlers.html#abstracts)] [[publisher's page](http://www.routledgeasianstudies.com/books/Local-Organizations-and-Urban-Governance-in-East-and-Southeast-Asia-isbn9780415492997)]
++ <u>Local Organizations and Urban Governance in East and Southeast Asia: Straddling State and Society</u>, edited by Benjamin L. Read with [Robert Pekkanen](http://www.robertpekkanen.com), Routledge 2009 [[table of contents](straddlers.html)] [[abstracts](straddlers.html#abstracts)] [[publisher's page](http://www.routledgeasianstudies.com/books/Local-Organizations-and-Urban-Governance-in-East-and-Southeast-Asia-isbn9780415492997)] [[Google books](https://books.google.com/books?id=aoPUMmUsauoC)]
 
 ### Articles and book chapters from this project:
 
