@@ -8,10 +8,12 @@ My research centers on local and grassroots politics in East Asia, mainly China 
 
 In Taiwan, as elsewhere, studies of democracy focus most on the national level. Here, I examine democratic practices and processes at the local level, particularly cities. The campaigns and activities of city councilors and neighborhood leaders provide a window on the workings of Taiwan's political system in ways that connect with ordinary people's lives. I'm still in the early stages of this project, actively conducting fieldwork and building on my earlier work on grassroots politics.
 
-### Articles and book chapters from this project:
+### Articles, book chapters, and more from this project:
 
 + "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u>, University of Washington Press, revised manuscript under review
 + "China–Taiwan Comparisons: Still Promising Though Not 'Ideal'," <u>Harvard Workshop on Chinese Politics</u>, February 23, 2018 [[pdf](http://cnpoliticsworkinggroup.org/wp-content/uploads/2018/02/Ben-Read_China-Taiwan-Comparisons.pdf)] [[all papers](http://cnpoliticsworkinggroup.org/index.php/harvard-workshop-memos/)]
++ Graphs depicting various aspects of the [politics of Taiwan](../graphics/politics_in_taiwan.html) 
++ See also <u>Roots of the State</u> below
 
 ## State-Fostered Organizations
 
