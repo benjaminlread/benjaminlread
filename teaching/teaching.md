@@ -9,15 +9,13 @@ title: Teaching
 What should you call me? I suggest that currently enrolled undergraduate students call me "Professor Read." All others should feel free to call me "Ben."
 
 ## Future courses
-+ In Fall 2018 I'll be on sabbatical leave.
++ In Fall 2018 I'm on sabbatical leave.
 + In Winter 2019 I'll teach Poli 161, <u>Foreign Relations of China</u>.
 + Then in Spring 2019 I'll teach Poli 140d, <u>Politics of East Asia</u>, and Poli 141, <u>Politics of China</u>. See below for these courses' most recent syllabi.
 
-## Current courses
-+ Poli 140d, <u>Politics of East Asia</u>, Spring 2018 [[syllabus](Politics 140d - 2018sp - Syllabus.pdf)]
-
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2014 [[syllabus](Politics 60 - 2014wi - Syllabus.pdf)]
++ Poli 140d, <u>Politics of East Asia</u>, Spring 2018 [[syllabus](Politics 140d - 2018sp - Syllabus.pdf)]
 + Poli 141, <u>Politics of China</u>, Fall 2017 [[syllabus](Politics 141 - 2017fa - Syllabus.pdf)]
 + Poli 161, <u>Foreign Relations of China</u>, Winter 2017 [[syllabus](Politics 161 - 2017wi - Syllabus.pdf)] [[Korean Peninsula timeline](../visualizations/korean_peninsula_timeline.html)]
 + Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
