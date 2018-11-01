@@ -11,6 +11,15 @@ title: Graphs of Taiwanese Politics
 
 Note: Click image for full-sized version. Elections for the mayors of the cities of Taipei and Kaohsiung were reintroduced in 1994. In 2010, Taichung County, Tainan County, and Kaohsiung County merged with their respective cities.
 
+## 台灣民選的女性縣市長, 1982- <br/>Women elected as city and county executives in Taiwan, 1982-
+
+<div style="text-align:center" markdown="1">
+[![timeline graph of women elected as city and county executives](small_images/executives-women-h400.png "Click for full-sized image")](full_images/executives-women.png)
+</div>
+
+Note: Click image for full-sized version. 14 women had been elected to city and county executive positions as of 2014. Elections for the mayors of the cities of Taipei and Kaohsiung were reintroduced in 1994. In 2010, Taichung County, Tainan County, and Kaohsiung County merged with their respective cities.
+
+
 ## 立法院政黨席次比例<br/>Parties' seat share in Taiwan's legislature
 
 <div style="text-align:center" markdown="1">
