@@ -68,6 +68,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 &nbsp;&nbsp;[Institute for Humanities Research](http://ihr.ucsc.edu/)  
 &nbsp;&nbsp;[Lick Observatory](http://www.ucolick.org/)  
 &nbsp;&nbsp;[Regional History Project](http://library.ucsc.edu/regional-history-project)  
+&nbsp;&nbsp;[Santa Cruz Institute for Social Transformation](https://santacruzinstitute.ucsc.edu)  
 &nbsp;&nbsp;[Science Internship Program](http://ucsc-sip.org/)  
 &nbsp;&nbsp;[Seymour Marine Discovery Center](http://seymourcenter.ucsc.edu/)
 
