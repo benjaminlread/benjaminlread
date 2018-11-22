@@ -19,7 +19,7 @@ Born in Madison, Wisconsin, Ben Read spent a year of his childhood in the Dutch 
 
 ## Contact information
 
-Mailing address:
+Mailing address:  
 Politics Department  
 Merrill Faculty Services  
 1156 High Street  
