@@ -10,10 +10,10 @@ In Taiwan, as elsewhere, studies of democracy focus most on the national level. 
 
 ### Articles, book chapters, and more from this project:
 
-+ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u>, University of Washington Press, revised manuscript under review
++ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u>, University of Washington Press, in press
 + "China–Taiwan Comparisons: Still Promising Though Not 'Ideal'," <u>Harvard Workshop on Chinese Politics</u>, February 23, 2018 [[pdf](http://cnpoliticsworkinggroup.org/wp-content/uploads/2018/02/Ben-Read_China-Taiwan-Comparisons.pdf)] [[all papers](http://cnpoliticsworkinggroup.org/index.php/harvard-workshop-memos/)]
 + Graphs depicting various aspects of the [politics of Taiwan](../graphics/politics_in_taiwan.html) 
-+ See also <u>Roots of the State</u> below
++ See also [<u>Roots of the State</u>](roots.html) below
 
 ## State-Fostered Organizations
 
