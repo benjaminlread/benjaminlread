@@ -31,4 +31,4 @@ Email: bread (at) ucsc (dot) edu
 
 ## Office hours
 
-I will be traveling and doing field research in summer 2018, and on sabbatical leave until January 2019.
+Winter 2019: Mondays 1:30 - 3:30, and by appointment, in Merrill Faculty Annex 157.
