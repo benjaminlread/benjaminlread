@@ -22,7 +22,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 &nbsp;&nbsp;[Library](https://library.ucsc.edu/)  
 &nbsp;&nbsp;[Silicon Valley Initiatives](https://svi.ucsc.edu/)  
 &nbsp;&nbsp;[UCSC Extension](https://www.ucsc-extension.edu/)  
-&nbsp;&nbsp;[Undergraduate Education](https://undergraduate.ucsc.edu/)
+&nbsp;&nbsp;[Undergraduate Education](https://ue.ucsc.edu/)
 
 ### Administrative Units under EVC
 &nbsp;&nbsp;[Business & Admin. Services](https://bas.ucsc.edu/)  
@@ -64,7 +64,6 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 &nbsp;&nbsp;[The Farm](https://casfs.ucsc.edu/) (Center for Agroecology and Sustainable Food Systems)  
 &nbsp;&nbsp;[The Arboretum](https://arboretum.ucsc.edu)  
 &nbsp;&nbsp;[Cultural Studies](https://ccs.ihr.ucsc.edu/)  
-&nbsp;&nbsp;[Global, International, and Regional Studies](https://cgirs.ucsc.edu/)  
 &nbsp;&nbsp;[Institute for Humanities Research](https://ihr.ucsc.edu/)  
 &nbsp;&nbsp;[Lick Observatory](https://www.ucolick.org/)  
 &nbsp;&nbsp;[Regional History Project](https://library.ucsc.edu/regional-history-project)  
