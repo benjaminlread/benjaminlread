@@ -31,4 +31,4 @@ Email: bread (at) ucsc (dot) edu
 
 ## Office hours
 
-Winter 2019: Mondays 1:30 - 3:30, and by appointment, in Merrill Faculty Annex 157.
+Spring 2019: Tuesdays & Thursdays 1:40p - 3:00p, and by appointment, in Merrill Faculty Annex 157.
