@@ -14,6 +14,7 @@ title: Commentary and Reviews
 
 ## Reviews
 
++ <U>The China Journal</U>, review of Beibei Tang, <U>China’s Housing Middle Class: Changing Urban Life in Gated Communities</U> (Abingdon: Routledge, 2018), Vol. 82, Issue 1 (July 2019), 181-182
 + <U>The Wall Street Journal</U>, review of Bruce J. Dickson, <U>The Dictator's Dilemma: The Chinese Communist Party’s Strategy for Survival</U> (Oxford, 2016), August 2, 2016 [[link](http://www.wsj.com/articles/the-peoples-republic-1470179644)]
 + <U>The China Journal</U>, review of Luigi Tomba, <U>The Government Next Door: Neighborhood Politics in Urban China</U> (Ithaca: Cornell, 2014), #76 (July 2016), 124-126
 + <U>The Wall Street Journal</U>, review of Louisa Lim, <U>The People's Republic of Amnesia: Tiananmen Revisited</U> (Oxford, 2014) and Rowena Xiaoqing He, <U>Tiananmen Exiles: Voices of the Struggle for Democracy in China</U> (Palgrave, 2014), May 31, 2014, p. C7 [[link](http://online.wsj.com/articles/book-review-the-peoples-republic-of-amnesia-by-louisa-lim-tiananmen-exiles-by-rowena-xiaoqing-he-1401486452)] [[full text](../publications/ReadBenjaminL_2014_WSJ_Review_of_Lim_2014_and_He_2014.pdf)]
