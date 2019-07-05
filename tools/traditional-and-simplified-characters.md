@@ -9,7 +9,7 @@ In many cases, such as 門 / 门, it's pretty easy to recognize a character's si
 
 You may need to zoom in on this page to see the characters clearly.
 
-&#8212; Benjamin L. Read, July 30, 2018. Comments, corrections and suggestions welcome.
+&#8212; Benjamin L. Read, updated July 5, 2019. Comments, corrections and suggestions welcome.
 
 <TABLE><tr><td colspan="3" style="text-align:center;">Individual character</td><td colspan="3" style="text-align:center;">Example word group</td></tr>
 <tr><td>Traditional</td><td>Simplified</td><td>Pinyin</td><td>Traditional</td><td>Simplified</td><td>Pinyin</td></tr>
@@ -87,6 +87,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>饋</td><td>馈</td><td>kuì</td><td>回饋</td><td>回馈</td><td>huíkuì</td></tr>
 <tr><td>來</td><td>来</td><td>lái</td><td>回來</td><td>回来</td><td>huílái</td></tr>
 <tr><td>樂</td><td>乐</td><td>lè</td><td>歡樂</td><td>欢乐</td><td>huānlè</td></tr>
+<tr><td>釐</td><td>厘</td><td>lí</td><td>釐清</td><td>厘清</td><td>líqīng</td></tr>
 <tr><td>裡</td><td>里</td><td>lǐ</td><td>裡外</td><td>里外</td><td>lǐwài</td></tr>
 <tr><td>禮</td><td>礼</td><td>lǐ</td><td>禮貌</td><td>礼貌</td><td>lǐmào</td></tr>
 <tr><td>歷</td><td>历</td><td>lì</td><td>歷來</td><td>历来</td><td>lìlái</td></tr>
@@ -115,6 +116,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>遶</td><td>绕</td><td>rào</td><td>遶道</td><td>绕道</td><td>ràodào</td></tr>
 <tr><td>熱</td><td>热</td><td>rè</td><td>熱心</td><td>热心</td><td>rèxīn</td></tr>
 <tr><td>認</td><td>认</td><td>rèn</td><td>認識</td><td>认识</td><td>rènshi</td></tr>
+<tr><td>曬</td><td>晒</td><td>shài</td><td>曬太陽</td><td>晒太阳</td><td>shàitàiyáng</td></tr>
 <tr><td>甚</td><td>什</td><td>shén</td><td>甚麼</td><td>什么</td><td>shénmo</td></tr>
 <tr><td>審</td><td>审</td><td>shěn</td><td>審核</td><td>审核</td><td>shěnhé</td></tr>
 <tr><td>識</td><td>识</td><td>shí</td><td>認識</td><td>认识</td><td>rènshi</td></tr>
@@ -141,6 +143,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>習</td><td>习</td><td>xí</td><td>習慣</td><td>习惯</td><td>xíguàn</td></tr>
 <tr><td>顯</td><td>显</td><td>xiǎn</td><td>明顯</td><td>明显</td><td>míngxiǎn</td></tr>
 <tr><td>縣</td><td>县</td><td>xiàn</td><td>縣城</td><td>县城</td><td>xiànchéng</td></tr>
+<tr><td>獻</td><td>献</td><td>xiàn</td><td>獻花</td><td>献花</td><td>xiànhuā</td></tr>
 <tr><td>鄉</td><td>乡</td><td>xiāng</td><td>鄉下</td><td>乡下</td><td>xiāngxià</td></tr>
 <tr><td>響</td><td>响</td><td>xiǎng</td><td>音響</td><td>音响</td><td>yīnxiǎng</td></tr>
 <tr><td>脅</td><td>胁</td><td>xié</td><td>威脅</td><td>威胁</td><td>wēixié</td></tr>
@@ -151,6 +154,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>學</td><td>学</td><td>xué</td><td>學生</td><td>学生</td><td>xuéshēng</td></tr>
 <tr><td>壓</td><td>压</td><td>yā</td><td>壓力</td><td>压力</td><td>yālì</td></tr>
 <tr><td>驗</td><td>验</td><td>yàn</td><td>經驗</td><td>经验</td><td>jīngyàn</td></tr>
+<tr><td>厭</td><td>厌</td><td>yàn</td><td>討厭</td><td>讨厌</td><td>tǎoyàn</td></tr>
 <tr><td>艷</td><td>艳</td><td>yàn</td><td>鮮艷</td><td>鲜艳</td><td>xiānyàn</td></tr>
 <tr><td>陽</td><td>阳</td><td>yáng</td><td>陰陽</td><td>阴阳</td><td>yīnyáng</td></tr>
 <tr><td>樣</td><td>样</td><td>yàng</td><td>模樣</td><td>膜样</td><td>móyàng</td></tr>
@@ -170,6 +174,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>園</td><td>园</td><td>yuán</td><td>菜園</td><td>菜园</td><td>càiyuán</td></tr>
 <tr><td>讚</td><td>赞</td><td>zàn</td><td>贊成</td><td>赞成</td><td>zànchéng</td></tr>
 <tr><td>髒</td><td>脏</td><td>zāng</td><td>髒亂</td><td>脏乱</td><td>zāngluàn</td></tr>
+<tr><td>鑿</td><td>凿</td><td>záo</td><td>鑿冰</td><td>凿冰</td><td>záobīng</td></tr>
 <tr><td>摺</td><td>折</td><td>zhé</td><td>奏摺</td><td>奏折</td><td>zòuzhé</td></tr>
 <tr><td>徵</td><td>征</td><td>zhēng</td><td>特徵</td><td>特征</td><td>tèzhēng</td></tr>
 <tr><td>鄭</td><td>郑</td><td>Zhèng</td><td>姓鄭</td><td>姓郑</td><td>xìng Zhèng</td></tr>
