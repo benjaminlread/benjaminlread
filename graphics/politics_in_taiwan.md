@@ -3,21 +3,21 @@ layout: page
 title: Graphs of Taiwanese Politics
 ---
 
-## 台灣民選的縣市長, 1985- <br/>Elected city and county executives in Taiwan, 1985-
+## 台灣民選的縣市長, 1985- <br/>Elected city mayors and county magistrates in Taiwan, 1985-
 
 <div style="text-align:center" markdown="1">
-[![timeline graph of city and county executives](small_images/executives-h400.png "Click for full-sized image")](full_images/executives.png)
+[![timeline graph of city mayors and county magistrates](small_images/executives-h400.png "Click for full-sized image")](full_images/executives.png)
 </div>
 
 Note: 全尺寸版本請點擊圖像. Click image above for full-sized version. Elections for the mayors of the cities of Taipei and Kaohsiung were reintroduced in 1994. In 2010, Taichung County, Tainan County, and Kaohsiung County merged with their respective cities.
 
-## 台灣民選的女性縣市長, 1982- <br/>Women elected as city and county executives in Taiwan, 1982-
+## 台灣民選的女性縣市長, 1982- <br/>Women elected as city mayors and county magistrates in Taiwan, 1982-
 
 <div style="text-align:center" markdown="1">
-[![timeline graph of women elected as city and county executives](small_images/executives-women-h400.png "Click for full-sized image")](full_images/executives-women.png)
+[![timeline graph of women elected as city mayors and county magistrates](small_images/executives-women-h400.png "Click for full-sized image")](full_images/executives-women.png)
 </div>
 
-Note: 全尺寸版本請點擊圖像. Click image above for full-sized version. 14 women had been elected to city and county executive positions as of 2014. Elections for the mayors of the cities of Taipei and Kaohsiung were reintroduced in 1994. In 2010, Taichung County, Tainan County, and Kaohsiung County merged with their respective cities.
+Note: 全尺寸版本請點擊圖像. Click image above for full-sized version. 14 women had been elected to city mayor and county magistrate positions as of 2014. Elections for the mayors of the cities of Taipei and Kaohsiung were reintroduced in 1994. In 2010, Taichung County, Tainan County, and Kaohsiung County merged with their respective cities.
 
 
 ## 立法院政黨席次比例<br/>Parties' seat share in Taiwan's legislature
