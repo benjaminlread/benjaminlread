@@ -13,6 +13,9 @@ What should you call me? I suggest that currently enrolled undergraduate student
 + Fall 2019: I'll be in Shanghai as UCEAP faculty director for China in Fall 2019.
 + Winter 2020: Poli 141, <u>Politics of China</u>.
 + Spring 2020: Poli 140d, <u>Politics of East Asia</u>, and Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>.
++ Fall 2020: First term as department chair; no courses planned
++ Winter 2021: Poli 140d, <u>Politics of East Asia</u>
++ Spring 2021: Poli 161, <u>Foreign Relations of China</u>
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2014 [[syllabus](Politics 60 - 2014wi - Syllabus.pdf)]
