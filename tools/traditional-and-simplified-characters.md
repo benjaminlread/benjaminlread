@@ -9,7 +9,7 @@ In many cases, such as 門 / 门, it's pretty easy to recognize a character's si
 
 You may need to zoom in on this page to see the characters clearly.
 
-&#8212; Benjamin L. Read, updated July 5, 2019. Comments, corrections and suggestions welcome.
+&#8212; Benjamin L. Read, updated December 22, 2019. Comments, corrections and suggestions welcome.
 
 <TABLE><tr><td colspan="3" style="text-align:center;">Individual character</td><td colspan="3" style="text-align:center;">Example word group</td></tr>
 <tr><td>Traditional</td><td>Simplified</td><td>Pinyin</td><td>Traditional</td><td>Simplified</td><td>Pinyin</td></tr>
@@ -129,6 +129,7 @@ You may need to zoom in on this page to see the characters clearly.
 <tr><td>鬆</td><td>松</td><td>sōng</td><td>放鬆</td><td>放松</td><td>fàngsōng</td></tr>
 <tr><td>歲</td><td>岁</td><td>suì</td><td>歲月</td><td>岁月</td><td>suìyuè</td></tr>
 <tr><td>態</td><td>态</td><td>tài</td><td>生態</td><td>生态</td><td>shēngtài</td></tr>
+<tr><td>嘆/歎</td><td>叹</td><td>tàn</td><td>感歎</td><td>感叹</td><td>gǎntàn</td></tr>
 <tr><td>體</td><td>体</td><td>tǐ</td><td>媒體</td><td>媒体</td><td>méitǐ</td></tr>
 <tr><td>鐵</td><td>铁</td><td>tiě</td><td>鐵路</td><td>铁路</td><td>tiělù</td></tr>
 <tr><td>聽</td><td>听</td><td>tīng</td><td>聽說</td><td>听说</td><td>tīngshuō</td></tr>
