@@ -10,17 +10,17 @@ What should you call me? I suggest that currently enrolled undergraduate student
 
 
 ## Future courses
-+ Fall 2019: I'll be in Shanghai as UCEAP faculty director for China in Fall 2019.
-+ Winter 2020: Poli 141, <u>Politics of China</u>.
 + Spring 2020: Poli 140d, <u>Politics of East Asia</u>, and Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>.
 + Fall 2020: First term as department chair; no courses planned
 + Winter 2021: Poli 140d, <u>Politics of East Asia</u>
 + Spring 2021: Poli 161, <u>Foreign Relations of China</u>
 
+## Current courses
++ Poli 141, <u>Politics of China</u>, Winter 2020 [[syllabus](Politics 141 - 2020wi - Syllabus.pdf)]
+
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2014 [[syllabus](Politics 60 - 2014wi - Syllabus.pdf)]
 + Poli 140d, <u>Politics of East Asia</u>, Spring 2019 [[syllabus](Politics 140d - 2019sp - Syllabus.pdf)]
-+ Poli 141, <u>Politics of China</u>, Spring 2019 [[syllabus](Politics 141 - 2019sp - Syllabus.pdf)]
 + Poli 161, <u>Foreign Relations of China</u>, Winter 2019 [[syllabus](Politics 161 - 2019wi - Syllabus.pdf)] [[Korean Peninsula timeline](../visualizations/korean_peninsula_timeline.html)]
 + Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
 + Poli 200b, <u>Social Forces and Political Change</u>, graduate seminar, Winter 2015 [[syllabus](Politics 200b - 2015wi - Syllabus.pdf)]
