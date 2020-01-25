@@ -12,8 +12,8 @@ What should you call me? I suggest that currently enrolled undergraduate student
 ## Future courses
 + Spring 2020: Poli 140d, <u>Politics of East Asia</u>, and Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>.
 + Fall 2020: First term as department chair; no courses planned
-+ Winter 2021: Poli 140d, <u>Politics of East Asia</u>
-+ Spring 2021: Poli 161, <u>Foreign Relations of China</u>
++ Winter 2021: Poli 161, <u>Foreign Relations of China</u>
++ Spring 2021: Poli 140d, <u>Politics of East Asia</u>
 
 ## Current courses
 + Poli 141, <u>Politics of China</u>, Winter 2020 [[syllabus](Politics 141 - 2020wi - Syllabus.pdf)]
