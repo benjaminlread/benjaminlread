@@ -31,4 +31,4 @@ Email: bread (at) ucsc (dot) edu
 
 ## Office hours
 
-In fall 2019 I'm working in Shanghai and holding office hours on Wednesday afternoons from 2 - 4 in the UCEAP study center near Fudan University. Regular UC Santa Cruz office hours will resume in January 2020.
+Winter 2020: Tuesdays, 2pm-4pm, in Merrill Faculty Annex 157, and by appointment.
