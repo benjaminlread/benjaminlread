@@ -11,7 +11,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 
 &nbsp;&nbsp;[UCSC home](https://www.ucsc.edu/)  
 &nbsp;&nbsp;[Chancellor](https://chancellor.ucsc.edu/)  
-&nbsp;&nbsp;[Campus Provost / EVC](https://cpevc.ucsc.edu/)  
+&nbsp;&nbsp;[Campus Provost / Executive Vice Chancellor (CP/EVC)](https://cpevc.ucsc.edu/)  
 &nbsp;&nbsp;[Academic Senate](https://senate.ucsc.edu/)
 
 ### Academic Units under EVC
