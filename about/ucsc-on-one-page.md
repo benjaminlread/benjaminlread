@@ -61,9 +61,10 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 ### Notable Things
 
 &nbsp;&nbsp;[50th Anniversary of UCSC](https://50years.ucsc.edu/)  
-&nbsp;&nbsp;[The Farm](https://casfs.ucsc.edu/) (Center for Agroecology and Sustainable Food Systems)  
 &nbsp;&nbsp;[The Arboretum](https://arboretum.ucsc.edu)  
+&nbsp;&nbsp;[Center for Innovations in Teaching and Learning](https://citl.ucsc.edu/)  
 &nbsp;&nbsp;[Cultural Studies](https://ccs.ihr.ucsc.edu/)  
+&nbsp;&nbsp;[The Farm](https://casfs.ucsc.edu/) (Center for Agroecology and Sustainable Food Systems)  
 &nbsp;&nbsp;[Institute for Humanities Research](https://ihr.ucsc.edu/)  
 &nbsp;&nbsp;[Lick Observatory](https://www.ucolick.org/)  
 &nbsp;&nbsp;[Regional History Project](https://library.ucsc.edu/regional-history-project)  
