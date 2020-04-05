@@ -3,7 +3,7 @@ layout: page
 title: Merge Zoom Attendance Reports into Student Roster via Stata
 ---
 This do-file takes attendance reports produced by Zoom and merges them into a student roster, recording for each date, for each student, the number of minutes spent logged into Zoom and the number of log-ins.
-The code assumes that the working directory contains 1) A roster of students in Excel format (.xlsx) containing, along with any number of other columns, a column whose first-row cell has the words "Email Address"; 2) A set of one or more .csv files that come from Zoom, each a "report" from a class meeting. These .csv files should be named in some sequence so that they will sort chronologically, e.g. "class01.csv" "class02.csv", etc. There should be no .csv files in the folder other than these report files. Note that this assumes students are logging in to Zoom using the email addresses in the roster; that is how records are matched. Stata will not modify the original roster file but will generate a file (or over-write an existing file) containing the output, named "roster_with_attendance.xlsx". I wrote this for Stata 14.2.
+The code assumes that the working directory has in it 1) A roster of students in Excel format (.xlsx) containing, along with any number of other columns, a column whose first-row cell has the words "Email Address"; 2) A set of one or more .csv files that come from Zoom, each a "report" from a class meeting. These .csv files should be named in some numerical or alphabetical sequence so that they will sort chronologically, e.g. "class01.csv" "class02.csv", etc. There should be no .csv files in the folder other than these report files. Note that this assumes students are logging in to Zoom using the email addresses in the roster; that is how records are matched. Stata will not modify the original roster file but will generate a new file (or over-write an existing file) containing the output, named "roster_with_attendance.xlsx". I wrote this for Stata 14.2.
 
 
 
@@ -49,9 +49,8 @@ label var attention "Attention score"
 replace email = strlower(email) if email != strlower(email)
 
 * Optionally, disregard instructors' email addresses
-drop if email == "bread@ucsc.edu"
-drop if email == "aganis@ucsc.edu"
-drop if email == "yhe93@ucsc.edu"
+drop if email == "SOME_EMAIL_ADDRESS"
+drop if email == "SOME_OTHER_EMAIL_ADDRESS"
 
 * Processing of one source file
 
