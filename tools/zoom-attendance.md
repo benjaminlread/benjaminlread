@@ -102,7 +102,7 @@ export excel using "roster_with_attendance.xlsx", replace
 exit
 
 *** Sample useful command
-* list firstname lastname email if logins_04_02==., clean noobs
+* list firstname lastname email if logins_04_02==0, clean noobs
 ```
 
 Comments welcome. Posted April 4, 2020.<BR>
