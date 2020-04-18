@@ -13,7 +13,7 @@ title: Miscellaneous Tools and Side Projects
 
 ## Code and Software
 
-+ [Merge Zoom attendance reports into student roster](zoom-attendance.html) via Stata do-file
++ [Merge Zoom attendance and poll reports into student roster](zoom-attendance.html) via Stata do-file
 + [Frequency count of Zotero tags](zotero-tags-count.html) via Stata do-file
 + VBA macros for Word: for [general](macros-word-general.html) purposes and for [annotation](macros-word-annotation.html)
 + Notes on [software](software.html) that I use
