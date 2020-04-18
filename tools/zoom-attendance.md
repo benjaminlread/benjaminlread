@@ -6,17 +6,17 @@ This do-file takes attendance and poll reports produced by Zoom and merges them 
 
 It uses the student's email address to match Zoom reports with the roster. It will only work well if students are required to log into Zoom with the same email address that is in the roster file. To help check for situations where this is not the case, it generates a log file, "unknown_email.txt".
 
-Stata will not modify the original roster file but will generate a new file (or over-write an existing file) containing the output, named "roster_with_attendance.xlsx".
+Stata will not modify the original roster file but will generate two new files (or over-write existing files) containing the output: "roster_with_attendance.dta" and "roster_with_attendance.xlsx", in Stata and Excel format.
 
-The code assumes that zoomfile.do is in the working directory, which also has:
+The code assumes that zoomdata.do is in the working directory, which also has:
 
 1. A folder named "rosters" which has in it "roster.xlsx". This is your master roster for the course, containing columns whose first-row cells have the words "Email Address" and "Section" respectively. This Excel file may also have any number of other columns, e.g. for students' names, etc.
 
 2. A folder named "attend_lec", containing one or more .csv files that come from Zoom, each a "report" from a class meeting. These .csv files should be named in some numerical or alphabetical sequence so that they will sort chronologically, e.g. "class01.csv" "class02.csv", etc. There should be no .csv files in the folder other than these report files. Stata will extract the class date from the date-stamps in these files.
 
-3. A folder named "poll_reports", containing one or more .csv files that come from Zoom, each a "report" from a class meeting. Zoom does not seem to reliably record dates in such files so you must embed the month and date in each filename as follows: poll04_07.csv
+3. A folder named "poll_reports", containing one or more .csv files that come from Zoom, each a "report" from a class meeting. Zoom does not seem to reliably record dates in such files so you must embed the month and date in each filename as in the following example: poll04_07.csv
 
-4. A folder named "attend_sec". The .csv files here are like those for lecture attendance above but each is for one section, rather than the whole class, and the sections take place on different days. They should be named "week01_A.csv", "week01_B.csv" "week02_A.csv", etc., for an arbitrary number of weeks and section names A, B, etc. Stata will compile these into a variable for number of minutes of section attended per week.
+4. A folder named "attend_sec". The .csv files here are like those for lecture attendance above but each is for one section, rather than the whole class, and the sections take place on different days. They should be named "week01_A.csv", "week01_B.csv" "week02_A.csv", etc., for an arbitrary number of weeks (up to 99) and section names A, B, etc. Stata will compile these into a variable for number of minutes of section attended per week.
 
 I wrote this for Stata 14.2. Comments welcome. (Updated 4/18/2020)
 
