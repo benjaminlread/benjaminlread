@@ -8,7 +8,7 @@ subtitle: Politics from China to Taiwan, and from ethnography to Stata
 
 ## Welcome 歡迎
 
-I'm a professor of [Politics](https://politics.ucsc.edu/) at the [University of California, Santa Cruz](about/ucsc-on-one-page.html); more about me [here](about/about.html), including office hours, contact information, and CV.
+I'm professor and department chair of [Politics](https://politics.ucsc.edu/) at the [University of California, Santa Cruz](about/ucsc-on-one-page.html); more about me [here](about/about.html), including office hours, contact information, and CV.
 
 The site's [research](research/research.html) section gives a full overview of my work on local politics in China and Taiwan, and on field research methods, including details on my books and full text of articles and chapters.
 
