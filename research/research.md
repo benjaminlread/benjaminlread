@@ -63,11 +63,9 @@ In other work, I've examined groups that are largely autonomous from state fundi
 + "Inadvertent Political Reform via Private Associations: Assessing Homeowners' Groups in New Neighborhoods," in Elizabeth J. Perry and Merle Goldman, eds., <u>Grassroots Political Reform in Contemporary China</u> (Cambridge, Mass.: Harvard University Press, 2007), pp. 149-173 [[pdf](../publications/ReadBenjaminL_2007_InadvertentPoliticalReform.pdf)]
 + "Democratizing the Neighborhood? New Private Housing and Homeowner Self-Organization in Urban China," <u>The China Journal</u>, Issue 49 (January 2003), pp. 31-59 [[pdf](../publications/ReadBenjaminL_2003_ChinaJ_DemocratizingTheNeighbourhood.pdf), reprinted in Jonathan Unger, ed. <u>Associations and the Chinese State: Contested Spaces</u> (Armonk, NY: M.E. Sharpe, 2008), pp. 216-252
 
-## Field Research Methods
+## Methods: Field, Comparative, Qualitative
 
-Ever since my dissertation fieldwork I have felt that studying topics like mine (and many others in the political world) all but requires the use of ethnographic techniques such as participant observation. Other approaches, like standard interviews and questionnaire surveys, are also valuable for what I do. But to the extent that politics has <u>hidden</u> and <u>subtle</u> aspects, as it usually does, there is an important place for methods based on observing people as they go about their ordinary work or activities in an up-close and prolonged way.
-
-With Diana Kapiszewski and Lauren MacLean, I've written a book that covers these matters and many other topics related to on-the-ground research:
+I use a range of different methods in my research, qualitative and quantitative. I don't aspire to be a methodologist per se. But over the years I've been inspired to write several papers and to coauthor a book about methods. The inspiration for all of it stems from experiences and questions I've encountered in my own work.
 
 <div style="text-align:center" markdown="1">
 ![cover of field research in political science](../images/frps_cover_212x300.jpg)
@@ -77,6 +75,7 @@ With Diana Kapiszewski and Lauren MacLean, I've written a book that covers these
 
 ### Articles and book chapters from this project:
 
++ "Problems and Possibilities of Comparison Across Regime Types: Examples Involving China," in Erica S. Simmons and Nicholas Rush Smith, eds., <u>Rethinking Comparison</u> (Cambridge: Cambridge University Press, forthcoming in 2021). This is a much-expanded version of the item below.
 + "Problems and Possibilities of Comparison Across Regime Types," <u>Qualitative and Multi-Method Research</u>, Vol. 16, No. 1 (Spring 2018), pp. 33–38 [[pdf](../publications/ReadBenjaminL_2018_Problems_and_Possibilities_of_Comparison_Across_Regime_Types.pdf)]
 + "Serial Interviews: When and Why to Talk to Someone More than Once," <u>International Journal of Qualitative Methods</u> Vol. 17, No. 1, first published June 26, 2018 [[journal](https://doi.org/10.1177/1609406918783452)] [[pdf](../publications/ReadBenjaminL_2018_Serial_Interviews_-_When_and_Why_to_Talk_to_Someone_More_than_Once.pdf)]
 + "Reconceptualizing Field Research in Political Science" (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), in the [Oxford Research Encyclopedia of Politics](http://politics.oxfordre.com) [[html](http://politics.oxfordre.com/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-722)] [[pdf](../publications/Kapiszewski_MacLean_Read_2018_Reconceptualizing_Field_Research_in_PS.pdf)]
