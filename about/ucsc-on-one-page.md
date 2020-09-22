@@ -62,6 +62,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 
 &nbsp;&nbsp;[50th Anniversary of UCSC](https://50years.ucsc.edu/)  
 &nbsp;&nbsp;[The Arboretum](https://arboretum.ucsc.edu)  
+&nbsp;&nbsp;[Blum Center](https://blumcenter.ucsc.edu)  
 &nbsp;&nbsp;[Center for Innovations in Teaching and Learning](https://citl.ucsc.edu/)  
 &nbsp;&nbsp;[Cultural Studies](https://ccs.ihr.ucsc.edu/)  
 &nbsp;&nbsp;[The Farm](https://casfs.ucsc.edu/) (Center for Agroecology and Sustainable Food Systems)  
@@ -122,6 +123,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 &nbsp;&nbsp;[Environmental Studies](https://envs.ucsc.edu/)  
 &nbsp;&nbsp;[Latin American & Latino Studies](https://lals.ucsc.edu/)  
 &nbsp;&nbsp;[Politics](https://politics.ucsc.edu/)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Legal Studies](https://legalstudies.ucsc.edu/)  
 &nbsp;&nbsp;[Psychology](https://psychology.ucsc.edu/)  
 &nbsp;&nbsp;[Sociology](https://sociology.ucsc.edu/)
 
