@@ -31,4 +31,4 @@ Email: bread (at) ucsc (dot) edu
 
 ## Office hours
 
-Summer 2020: By appointment, via Zoom.
+Fall 2020: Please [sign up](https://docs.google.com/spreadsheets/d/1cO6rZ06cT7hyc4eJQ3Y8yXF-B7aiWgGuC_qGLkHjzns/edit?usp=sharing) for a slot Wednesdays and Thursdays, 8:45-10:15, or email me for an appointment outside those times. 
