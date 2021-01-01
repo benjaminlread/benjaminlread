@@ -10,7 +10,6 @@ What should you call me? I suggest that currently enrolled undergraduate student
 
 
 ## Future courses
-+ Fall 2020: First term as department chair; no courses planned
 + Winter 2021: Poli 161, <u>Foreign Relations of China</u>
 + Spring 2021: Poli 140d, <u>Politics of East Asia</u>
 
