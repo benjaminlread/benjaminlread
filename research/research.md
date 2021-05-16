@@ -75,6 +75,7 @@ I use a range of different methods in my research, qualitative and quantitative.
 
 ### Articles and book chapters from this project:
 
++ "Dynamic Research Design: Iteration in Field-Based Inquiry” (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), <u>Comparative Politics</u> (forthcoming)
 + "Problems and Possibilities of Comparison Across Regime Types: Examples Involving China," in Erica S. Simmons and Nicholas Rush Smith, eds., <u>Rethinking Comparison</u> (Cambridge: Cambridge University Press, forthcoming in 2021). This is a much-expanded version of the item below.
 + "Problems and Possibilities of Comparison Across Regime Types," <u>Qualitative and Multi-Method Research</u>, Vol. 16, No. 1 (Spring 2018), pp. 33–38 [[pdf](../publications/ReadBenjaminL_2018_Problems_and_Possibilities_of_Comparison_Across_Regime_Types.pdf)]
 + "Serial Interviews: When and Why to Talk to Someone More than Once," <u>International Journal of Qualitative Methods</u> Vol. 17, No. 1, first published June 26, 2018 [[journal](https://doi.org/10.1177/1609406918783452)] [[pdf](../publications/ReadBenjaminL_2018_Serial_Interviews_-_When_and_Why_to_Talk_to_Someone_More_than_Once.pdf)]
