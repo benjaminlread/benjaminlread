@@ -10,7 +10,7 @@ What should you call me? I suggest that currently enrolled undergraduate student
 
 
 ## Future courses
-+ Winter 2022: Poli 140d, <u>Politics of East Asia</u>
++ Winter 2022: Poli 140d, <u>Politics of East Asia</u> (see below for most recent syllabus)
 + Spring 2022: Poli 141, <u>Politics of China</u> (see below for most recent syllabus)
 
 ## Current course
