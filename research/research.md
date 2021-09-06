@@ -11,7 +11,7 @@ In Taiwan, as elsewhere, studies of democracy focus most on the national level. 
 ### Articles, book chapters, and more from this project:
 
 + "A Gateway into Local Politics for Women and Youth? Taiwan's Neighborhood and Village Elections" (with Hsi Dai Lin), in progress
-+ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u> (Seattle: University of Washington Press, 2020), pp. 995-120
++ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u> (Seattle: University of Washington Press, 2020), pp. 95-120
 + "Serial Interviews: When and Why to Talk to Someone More than Once," <u>International Journal of Qualitative Methods</u> Vol. 17, No. 1, first published June 26, 2018 [[journal](https://doi.org/10.1177/1609406918783452)] [[pdf](../publications/ReadBenjaminL_2018_Serial_Interviews_-_When_and_Why_to_Talk_to_Someone_More_than_Once.pdf)] &mdash; a methods paper that discusses the extent and limitations of power held by neighborhood wardens
 + "China–Taiwan Comparisons: Still Promising Though Not 'Ideal'," <u>Harvard Workshop on Chinese Politics</u>, February 23, 2018 [[pdf](http://cnpoliticsworkinggroup.org/wp-content/uploads/2018/02/Ben-Read_China-Taiwan-Comparisons.pdf)] [[all papers](http://cnpoliticsworkinggroup.org/index.php/harvard-workshop-memos/)]
 + Graphs depicting various aspects of the [politics of Taiwan](../graphics/politics_in_taiwan.html) 
