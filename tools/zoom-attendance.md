@@ -2,7 +2,7 @@
 layout: page
 title: Merge Zoom Attendance and Poll Reports into Student Roster, via Stata
 ---
-(This was my first version. See [here for a new version](zoom-attendance-and-poll-quizzes.html) that scores correct answers to quizzes that the instructor gives via Zoom's poll feature, rather than merely using poll data to check on attendance purposes.)
+(This was my first version. See [here for a new version](zoom-attendance-and-poll-quizzes.html) that scores correct answers to quizzes that the instructor gives via Zoom's poll feature, rather than merely using poll data to check on attendance.)
 
 This do-file takes attendance and poll reports produced by Zoom and merges them into a student roster. For each Zoom lecture it determines, for each student, the total number of minutes spent logged into Zoom, the number of log-ins, and whether the student submitted at least one answer to Zoom polls. It then uses this information to calculate a simple 1-or-0 score for attendance that day. It also records attendance at weekly sections, which take place on various days. (It does not judge whether students' poll responses were "correct" or not, just whether any were submitted.)
 
