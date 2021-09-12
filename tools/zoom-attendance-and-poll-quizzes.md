@@ -2,9 +2,9 @@
 layout: page
 title: Process Zoom Output Files to Record Student Attendance and Quiz Performance, via Stata
 ---
-In Spring 2021 I taught a class in which students attended lectures and sections via Zoom. In lectures, I also gave the students quizzes via Zoom's poll feature. Some of these were just-for-fun quizzes that merely piqued students’ interest or curiosity; students got credit for any answer (e.g., “Who came across as more convincing in the debate clips that we just watched?”). I call those "attention quizzes" because they reward students for paying attention. Other quizzes evaluated students’ grasp of the assigned reading (e.g., “Kharis Templeman argues that Taiwan’s indigenous people have not been as well represented as they could be and mainly blames ...”, a multiple choice question for which one of the several answer options is correct.)
+In Spring 2021 I taught a class in which students attended lectures and sections via Zoom. My lectures included occasional quizzes via Zoom's poll feature. Some of these were just-for-fun quizzes that merely piqued students’ interest or curiosity; students got credit for any answer (e.g., “Who came across as more convincing in the debate clips that we just watched?”). I call those "attention quizzes" because they reward students for paying attention. Other quizzes evaluated students’ grasp of the assigned reading (e.g., “Kharis Templeman argues that Taiwan’s indigenous people have not been as well represented as they could be and mainly blames ...”, a multiple choice question for which one of the several answer options is correct.)
 
-This do-file takes attendance and poll reports produced by Zoom and merges them into a student roster. For each Zoom lecture it determines, for each student, the total number of minutes spent logged into Zoom. It then uses this information to calculate a simple 1-or-0 score for attendance that day. It also records attendance at weekly sections. It evaluates students' answers to the quiz questions and produces an overall score; it also generates a separate output file that can be uploaded to Canvas so students can see the number of quiz questions they got right, on a running basis. It also curves that score to integrate it into the students' grade. At the end it produces a file with an overall bonus/penalty for lecture attendance, and the curved quiz score. The end of the do-file I have appended several useful bits of code, for instance to generate a list of email addresses of those who have missed more than four lectures. (An earlier version of this do-file is [here](zoom-attendance.html)
+This do-file takes attendance and poll reports produced by Zoom and merges them into a student roster. For each Zoom lecture it determines, for each student, the total number of minutes spent logged into Zoom. It then uses this information to calculate a simple 1-or-0 score for attendance that day. It also records attendance at weekly sections. It evaluates students' answers to the quiz questions and produces an overall score; it also generates a separate output file that can be uploaded to Canvas so students can see the number of quiz questions they got right, on a running basis. It also curves that score to integrate it into the students' grade. At the end it produces a file with an overall bonus/penalty for lecture attendance, and the curved quiz score. At the end of the do-file I have appended several useful bits of code, for instance to generate a list of email addresses of those who have missed more than four lectures. (An earlier version of this do-file is [here](zoom-attendance.html))
 
 It uses the student's email address to match Zoom reports with the roster. It will only work well if students are required to log into Zoom with the same email address that is in the roster file. To help check for situations where this is not the case, it generates a log file, "unknown_email.txt".
 
@@ -14,29 +14,29 @@ The code assumes that zoom.do is in the working directory, which also has:
 
 1. A folder named "rosters" which has in it "roster.xlsx". This is your master roster for the course, containing columns whose first-row cells have the words "Email Address", "First Name" and "Last Name", in any order. This Excel file may also have any number of other columns.
 
-2. A folder named "attend_lec", containing one or more .csv files that come from Zoom, each a "report" from a class meeting. These .csv files should be named in some numerical or alphabetical sequence so that they will sort chronologically, e.g. "lecture01.csv" "lecture02.csv", etc. There should be no .csv files in the folder other than these report files. Stata will extract the class date from the date-stamps in these files.
+2. A folder named "attend_lec", containing one or more .csv files that come from Zoom, each a "report" from a class meeting. These .csv files should be named in some numerical or alphabetical sequence so that they will sort chronologically, e.g. "lecture01.csv" "lecture02.csv", etc. There should be no .csv files in the folder other than these report files. Stata will extract the class date from the date-stamps in the data inside these files.
 
 3. A folder named "attend_sec". The .csv files here are like those for lecture attendance above but each is for one section, rather than the whole class, and the sections take place on different days. They should be named "week01_A.csv", "week01_B.csv" "week02_A.csv", etc., for an arbitrary number of weeks (up to 99) and section names A, B, etc. Stata will compile these into a variable for number of minutes of section attended per week.
 
-3. A folder named "poll_reports", containing one or more .csv files that come from Zoom, each a "report" from a class meeting, containing the answers that students gave to quiz questions delivered by poll. Zoom does not seem to reliably record dates in such files so you must embed the month and date in each filename as in the following example: 2021-03-30_lecture01.csv
+4. A folder named "poll_reports", containing one or more .csv files that come from Zoom, each a "report" from a class meeting, containing the answers that students gave to quiz questions delivered by poll. Zoom does not seem to reliably record dates in such files so you must embed the month and date in each filename as in the following example: 2021-03-30_lecture01.csv
 
-4. A folder named "poll_questions", containing a file named "answer_key.csv". (I also put in this folder the .csv files containing the polling questions themselves for loading into Zoom, but this do-file does not use those.) The file answer_key.csv should start with the line "question,answer_correct,poll,anycorrect", and thereafter contain one line for each poll. For an "attention quiz" poll (for which any answer gets credit) the line looks like:
+5. A folder named "poll_questions", containing a file named "answer_key.csv". (I also put in this folder the .csv files containing the polling questions themselves for loading into Zoom, but this do-file does not use those.) The file answer_key.csv should start with the line "question,answer_correct,poll,anycorrect", and thereafter contain one line for each poll. For an "attention quiz" poll (for which any answer gets credit) the line looks like:
 
 ```
-Can you speak or have you studied any of these languages?, ,2,1
+Who came across as more convincing in the debate clips that we just watched?, ,10,1
 ```
-Because any answer is correct, the second field is a single space, and "anycorrect" (the last field) is 1. The third field, "poll", is a number uniquely identifying this poll, in this case "2" for the 2nd poll of the term.
+Because any answer is correct, the second field is a single space, and "anycorrect" (the last field) is 1. The third field, "poll", is a number uniquely identifying this poll, in this case "10" for the 10th poll of the term.
 
 And for a "readings quiz" poll (for which there is one correct answer) the line looks like:
 
 ```
-Who was Mao Zedong?,Communist Party leader and a founding father of the People's Republic of China,3,0
+Who was Mao Zedong?,Communist Party leader and a founding father of the People's Republic of China,11,0
 ```
-In such a question, the second field needs to exactly match the text of the correct answer option that you load into Zoom.
+In such a question, the second field needs to exactly match the text of the correct answer option as you loaded it into Zoom.
 
-5. I also have a separate do-file containing all the excused absences I have granted for lectures. (Excusing a missed lecture does not also give students credit for any quizzes that day.) This do-file, "process_excused_absences.do", is made up of lines like "replace lec04_15_attend = 1 if firstname=="John" & lastname=="Smith". Zoom.do runs this do-file.
+I also maintain a separate do-file containing all the excused absences I have granted for lectures. (Excusing a missed lecture does not also give students credit for any quizzes that day.) This do-file, "process_excused_absences.do", is made up of lines like "replace lec04_15_attend = 1 if firstname=="John" & lastname=="Smith". Zoom.do runs this do-file.
 
-The line of that curves the quiz grades uses the function grade_curve from the "grade" package, which can be installed via: net install st0561.pkg.
+The line of code that curves the quiz grades uses the function grade_curve from the "grade" package, which can be installed via: net install st0561.pkg.
 
 I wrote this for Stata 14.2. Comments welcome. (Updated 9/11/2021)
 
