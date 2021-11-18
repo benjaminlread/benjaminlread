@@ -227,4 +227,4 @@ Sub RemoveHyperlinks()
 End Sub
 ```
 
-Comments welcome. Updated October 28, 2014.
+Comments welcome. Updated November 17, 2021.
