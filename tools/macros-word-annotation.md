@@ -325,4 +325,4 @@ Sub DeleteAllFlaggedText()
 End Sub
 ```
 
-Comments welcome. Updated November 20, 2013.
+Comments welcome. Updated November 17, 2021.
