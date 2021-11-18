@@ -10,11 +10,11 @@ True, Word has its own annotation features like comments and hidden text. But I 
 ![annotation illustration](WordDocumentWithNotes.gif)
 </div>
 
-In my experience, using the keyboard instead of the mouse (as much as possible) is essential for avoiding forearm and wrist pain. It is also faster. Most of these macros are really only useful if [assigned](http://word.mvps.org/faqs/customization/AsgnCmdOrMacroToHotkey.htm) to keystrokes. General information on Word macros [here](http://office.microsoft.com/en-us/word/HA100997691033.aspx#4) and [here](http://word.mvps.org/FAQs/MacrosVBA.htm).
+In my experience, using the keyboard instead of the mouse (as much as possible) is essential for avoiding forearm and wrist pain. It is also faster. Most of these macros are really only useful if [assigned](http://word.mvps.org/faqs/customization/AsgnCmdOrMacroToHotkey.htm) to keystrokes. General information on Word macros [here](http://word.mvps.org/FAQs/MacrosVBA.htm).
 
-Some of the macros assume that you have character styles named, e.g., "Flag 1". This [document](SampleDocument-Annotation.docm) contains sample styles by way of illustration. Note that [styles](http://www.shaunakelly.com/word/styles/ApplyAStyle.html), too, can be assigned directly to keystrokes, but in some cases I use macros instead (see "Set style to 'Flag 1'").
+Some of the macros assume that you have character styles named, e.g., "Flag 1". This [document](SampleDocument-Annotation.docm) contains sample styles by way of illustration. Note that styles, too, can be assigned directly to keystrokes, but in some cases I use macros instead (see "Set style to 'Flag 1'").
 
-My general macros for Word are [here](Macros-Word-General.html).
+My general macros for Word are [here](macros-word-general.html).
 
 ## Select text within nearest brackets from insertion point
 

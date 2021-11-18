@@ -4,7 +4,7 @@ title: VBA Macros for Microsoft Word / General
 ---
 These macros are very simple but they make working in Word quite a bit snappier.
 
-In my experience, using the keyboard instead of the mouse (as much as possible) is essential for avoiding forearm and wrist pain. It is also faster. Most of these macros are really only useful if [assigned](http://word.mvps.org/faqs/customization/AsgnCmdOrMacroToHotkey.htm) to keystrokes. General information on Word macros [here](http://office.microsoft.com/en-us/word/HA100997691033.aspx#4) and [here](http://word.mvps.org/FAQs/MacrosVBA.htm).
+In my experience, using the keyboard instead of the mouse (as much as possible) is essential for avoiding forearm and wrist pain. It is also faster. Most of these macros are really only useful if [assigned](http://word.mvps.org/faqs/customization/AsgnCmdOrMacroToHotkey.htm) to keystrokes. General information on Word macros [here](http://word.mvps.org/FAQs/MacrosVBA.htm).
 
 My macros for annotating Word documents are [here](macros-word-annotation.html).
 
