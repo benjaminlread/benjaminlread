@@ -9,8 +9,10 @@ title: Teaching
 What should you call me? I suggest that currently enrolled undergraduate students call me "Professor Read." All others, including graduate students and everyone who is not a student, should feel free to call me "Ben."
 
 
-## Future courses
-+ Spring 2022: Poli 141, <u>Politics of China</u> (see below for most recent syllabus)
+## Future courses (see below for most recent syllabi)
++ Spring 2022: Poli 141, <u>Politics of China</u>
++ Winter 2023: Poli 60, <u>Comparative Politics of the Developing World</u>
++ Spring 2023: Poli 161, <u>The Rise of China</u>
 
 ## Current course
 + Poli 140d, <u>Politics of East Asia</u> Winter 2022 [[syllabus](Politics 140d - 2022wi - Syllabus.pdf)]
