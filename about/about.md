@@ -31,4 +31,4 @@ Email: bread (at) ucsc (dot) edu
 
 ## Office hours
 
-Fall 2021: Please [sign up](https://tinyurl.com/benreadofficehours) for a slot. The Zoom details are in the sign-up document. Alternatively, email me for an appointment outside those times.
+Please [sign up](https://tinyurl.com/benreadofficehours) for a slot. Days/times and details are in the sign-up document. Alternatively, email me for an appointment outside those times.
