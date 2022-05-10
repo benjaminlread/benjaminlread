@@ -43,7 +43,7 @@ Posted to provide a convenient, clickable overview of the UCSC campus
 &nbsp;&nbsp;[Stevenson](https://stevenson.ucsc.edu/)  
 &nbsp;&nbsp;[Rachel Carson](https://rachelcarson.ucsc.edu/)  
 &nbsp;&nbsp;[College Nine](https://collegenine.ucsc.edu/)  
-&nbsp;&nbsp;[College Ten](https://collegeten.ucsc.edu/)
+&nbsp;&nbsp;[John R. Lewis](https://johnrlewis.ucsc.edu/)
 
 ### Key Resources
 &nbsp;&nbsp;[Calendars](https://www.ucsc.edu/tools/calendars.html)  
