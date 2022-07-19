@@ -4,13 +4,21 @@ title: Commentary and Reviews
 ---
 ## Commentary
 
++ "[War in Ukraine: Background, Context, Prospects and Implications](https://transform.ucsc.edu/event/war-in-ukraine/)," <U>UCSC Institute for Social Transformation</U>, March 4, 2022; video available
 + "[Do Street Protests Work in China](http://www.chinafile.com/conversation/do-street-protests-work-china)," <U>ChinaFile</U>, June 14, 2017
-+ "[Taiwan's 9 in 1 Elections](http://www.fpri.org/multimedia/2014/12/taiwans-9-1-elections-audio)," panel discussion, <U>Foreign Policy Research Institute</U>, December 3, 2014.
++ "[Taiwan's 9 in 1 Elections](http://www.fpri.org/multimedia/2014/12/taiwans-9-1-elections-audio)," panel discussion, <U>Foreign Policy Research Institute</U>, December 3, 2014
 + "[Chinese Vice President Xi Visits Iowa: Branding the PRC's Next Leader](http://www.foreignaffairs.com/articles/137222/benjamin-l-read-and-zhang-gang/chinese-vice-president-xi-visits-iowa)" (with Zhang Gang), <U>Foreign Affairs</U> web site, February 14, 2012
 + "[Hu Jingcao on Liang Sicheng and Lin Huiyin](http://www.thechinabeat.org/?p=2958)," my interview in <U>The China Beat</U> (December 6, 2010) with the maker of two historical documentaries that cross the US-China divide. [Chinese-language version](http://blog.sina.com.cn/s/blog_6acd7d860100nhjr.html)
-+ "[Political and Social Reform in China: Alive and Walking](http://www.twq.com/08summer/index.cfm?id=308)" (with George J. Gilboy), <U>The Washington Quarterly</U> Vol. 31, No. 3 (Summer 2008), pp. 143-164.
-+ [Interview](http://thechinabeat.blogspot.com/2008/02/benjamin-read-on-homeowners-protests-in.html) with Angilee Shah of <U>The China Beat</U> (February 26, 2008) on homeowner protests in Shanghai. Reprinted in Kate Merkel-Hess, Kenneth L. Pomeranz, and Jeffrey N. Wasserstrom, eds., <U>China in 2008: A Year of Great Significance</U> (Lanham, MA: Rowman & Littlefield, 2009), pp. 19-21.
-+ "[Cong meiri yi bei 'fennu' dao 'dimian zuozhan'](../publications/BenRead-2004-DimianZuozhan.htm)" [From a 'Daily Cup of Outrage' to the 'Ground War'], <U>21 Shiji Jingji Baodao</U> [21st Century Economic Report] November 1, 2004.
++ "[Political and Social Reform in China: Alive and Walking](http://www.twq.com/08summer/index.cfm?id=308)" (with George J. Gilboy), <U>The Washington Quarterly</U> Vol. 31, No. 3 (Summer 2008), pp. 143-164
++ [Interview](http://thechinabeat.blogspot.com/2008/02/benjamin-read-on-homeowners-protests-in.html) with Angilee Shah of <U>The China Beat</U> (February 26, 2008) on homeowner protests in Shanghai. Reprinted in Kate Merkel-Hess, Kenneth L. Pomeranz, and Jeffrey N. Wasserstrom, eds., <U>China in 2008: A Year of Great Significance</U> (Lanham, MA: Rowman & Littlefield, 2009), pp. 19-21
++ "[Cong meiri yi bei 'fennu' dao 'dimian zuozhan'](../publications/BenRead-2004-DimianZuozhan.htm)" [From a 'Daily Cup of Outrage' to the 'Ground War'], <U>21 Shiji Jingji Baodao</U> [21st Century Economic Report] November 1, 2004
+
+## Media Mentions
+
++ "[Pretty Lady Cadres: New Data Shows Limits on Women’s Advancement in China’s Leadership](https://www.chinafile.com/reporting-opinion/features/pretty-lady-cadres-china)," <U>ChinaFile</U>, December 21, 2020
++ "[In China’s War on the Coronavirus, a Community Is Besieged](https://www.nytimes.com/2020/02/28/world/asia/china-coronavirus-wuhan.html)," <U>New York Times</U>, February 28, 2020
++ "[West's fascination with Tiananmen Square events not shared in China](https://news.ucsc.edu/2014/06/tiananmen-25.html)," <U>UCSC News</U>, June 4, 2014
++ "[China: A Democracy is Built](https://www.ft.com/content/07434446-48f6-11e0-af8c-00144feab49a)," <U>Financial Times</U>, March 7, 2011
 
 ## Reviews
 
