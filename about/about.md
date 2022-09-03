@@ -26,7 +26,7 @@ Merrill Faculty Services
 University of California, Santa Cruz  
 Santa Cruz, CA 95064
 
-Office phone: 831.459.4469  
+Office phone: 831-459-4469  
 Email: bread (at) ucsc (dot) edu
 
 ## Office hours
