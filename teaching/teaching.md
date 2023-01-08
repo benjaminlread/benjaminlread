@@ -10,15 +10,14 @@ What should you call me? I suggest currently enrolled undergraduate students cal
 
 
 ## Future courses (see below for most recent syllabi)
-+ Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023
 + Poli 161, <u>The Rise of China</u>, Spring 2023
 
 ## Current course
-+ Poli 141, <u>Politics of China</u>, Spring 2022 [[syllabus](Politics 141 - 2022sp - Syllabus.pdf)]
++ Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
 
 ## Past courses
-+ Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2014 [[syllabus](Politics 60 - 2014wi - Syllabus.pdf)]
 + Poli 140d, <u>Politics of East Asia</u> Winter 2022 [[syllabus](Politics 140d - 2022wi - Syllabus.pdf)]
++ Poli 141, <u>Politics of China</u>, Spring 2022 [[syllabus](Politics 141 - 2022sp - Syllabus.pdf)]
 + Poli 161, <u>The Rise of China</u>, Winter 2021 [[syllabus](Politics 161 - 2021wi - Syllabus.pdf)] [[Korean Peninsula timeline](../visualizations/korean_peninsula_timeline.html)]
 + Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
 + Poli 200b, <u>Social Forces and Political Change</u>, graduate seminar, Winter 2015 [[syllabus](Politics 200b - 2015wi - Syllabus.pdf)]
