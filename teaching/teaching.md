@@ -8,6 +8,10 @@ title: Teaching
 
 What should you call me? I suggest currently enrolled undergraduate students call me "Professor Read." All others, including graduate students and everyone who is not a student, should feel free to call me "Ben."
 
+## Future teaching
+
+I will be on sabbatical in the 2023-2024 academic year, working on a book. I will resume teaching in Fall 2024.
+
 ## Current course
 + Poli 161, <u>The Rise of China</u>, Spring 2023 [[syllabus](Politics 161 - 2023sp - Syllabus.pdf)]
 
