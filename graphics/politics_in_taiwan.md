@@ -3,7 +3,7 @@ layout: page
 title: Graphs of Taiwanese Politics
 ---
 
-## 台灣民選的縣市長, 1982- <br/>Elected city mayors and county magistrates in Taiwan, 1982-
+## [台灣民選的縣市長](full_images/executives.png), 1982- <br/>[Elected city mayors and county magistrates in Taiwan](full_images/executives.png), 1982-
 
 <div style="text-align:center" markdown="1">
 [![timeline graph of city mayors and county magistrates](small_images/executives-h400.png "Click for full-sized image")](full_images/executives.png)
