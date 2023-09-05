@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-My research centers on local and grassroots politics in East Asia, mainly China and Taiwan. The process of trying to learn about these things has also stimulated me to write about field research methods. Below is an overview of my work, organized by topic. My full CV is [here](../about/BenRead-CurriculumVitae.pdf).
+My research centers on local and grassroots politics in East Asia, mainly China and Taiwan. The process of trying to learn about these things has also stimulated me to write about field research and comparative methods. Below is an overview of my work, organized by topic. My full CV is [here](../about/BenRead-CurriculumVitae.pdf).
 
 ## Local Democracy in Taiwan
 
