@@ -4,7 +4,7 @@ title: Ben Read
 subtitle: Politics from China to Taiwan, and from ethnography to Stata
 ---
 
-![image of partially obscured temple in taipei](../images/front_image.jpg)
+![image of hillside temple in taipei](../images/front_image.jpg)
 
 ## Welcome 歡迎
 
