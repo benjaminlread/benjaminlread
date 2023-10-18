@@ -10,7 +10,7 @@ What should you call me? I suggest currently enrolled undergraduate students cal
 
 ## Future teaching
 
-I will be on sabbatical in the 2023-2024 academic year, working on a book. I will resume teaching in Fall 2024.
+I am on sabbatical in the 2023-2024 academic year, working on a book. I will resume teaching and office hours in Fall 2024.
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
