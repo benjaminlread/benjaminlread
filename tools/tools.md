@@ -20,4 +20,4 @@ title: Miscellaneous Tools and Side Projects
 
 ## Aviation
 
-+ Northern California aviation weather report: [short](http://aviationweather.gov/metar/data?ids=KWVI+KSNS+KMRY+KSJC+KSFO+KHAF&format=raw&date=0&hours=0) or [long](http://aviationweather.gov/metar/data?ids=KWVI+KSNS+KMRY+KSJC+KSFO+KHAF&format=raw&date=0&hours=24&taf=on)
++ Northern California aviation weather report: [short](https://aviationweather.gov/data/metar/?id=KWVI,KSNS,KMRY,KSJC,KSFO,KHAF&hours=0&include_taf=yes) or [long](https://aviationweather.gov/data/metar/?id=KWVI,KSNS,KMRY,KSJC,KSFO,KHAF&hours=24&include_taf=yes)
