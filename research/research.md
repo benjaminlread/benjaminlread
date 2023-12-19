@@ -6,7 +6,14 @@ My research centers on local and grassroots politics in East Asia, mainly China 
 
 ## Cambridge Elements / Politics and Society in East Asia
 
-I co-edit a series of short books on politics and society in East Asia. Each Element takes stock of scholarship on an important issue or concept and advances an original argument about it. Full details [here](https://www.cambridge.org/core/publications/elements/politics-and-society-in-east-asia).
+I co-edit a series of short books on politics and society in East Asia. Each Element takes stock of scholarship on an important issue or concept and advances an original argument about it. They are available in PDF and print editions, with some permanently open-access. Since the series started publishing in 2021, tens of thousands of readers have viewed and downloaded the various contributions. These are some of the Elements published so far:
+
++ Melanie Manion, [Political Selection in China](https://www.cambridge.org/core/elements/abs/political-selection-in-china/C4AF6149B207555458FE21CA9746C792)
++ Margaret M. Pearson, Meg Rithmire, and Kellee Tsai, [The State and Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)
++ Yongshun Cai and Chih-Jou Jay Chen, [State and Social Protests in China](https://www.cambridge.org/core/elements/abs/state-and-social-protests-in-china/9758A610A0F88CD87A99A42DEC12F47D)
++ Sheena Chestnut Greitens, [Politics of the North Korean Diaspora](https://www.cambridge.org/core/elements/abs/politics-of-the-north-korean-diaspora/8E00C18DAD49699A9CD3D923F4683FED)
+
+Full details [here](https://www.cambridge.org/core/publications/elements/politics-and-society-in-east-asia).
 
 ## Local Democracy in Taiwan
 
