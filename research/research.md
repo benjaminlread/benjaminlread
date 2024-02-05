@@ -23,7 +23,8 @@ I'm writing a book about accountability relationships between elected mayors and
 
 ### Articles, book chapters, and more from this project:
 
-+ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u> (Seattle: University of Washington Press, 2020), pp. 95-120
++ "Some Head Starts Are Bigger than Others: Dynastic Legacies and Variation in Candidate Quality in Taiwan's Local Elections" (Nathan F. Batto and Benjamin L. Read), <u>Japanese Journal of Political Science</u> (forthcoming)
++ "Neighborhood Politics in Taipei: Democracy at the Most Local Level," in Ashley Esarey and Ryan Dunch, eds., <u>Taiwan in Dynamic Transition: Nation-Building, Globalization, and Democracy</u> (Seattle: University of Washington Press, 2020), pp. 95-120 [[pdf](../publications/ReadBenjaminL_2020_Neighborhood-Politics-in-Taipei--Democracy-at-the-Most-Local-Level.pdf)]
 + "Serial Interviews: When and Why to Talk to Someone More than Once," <u>International Journal of Qualitative Methods</u> Vol. 17, No. 1, first published June 26, 2018 [[journal](https://doi.org/10.1177/1609406918783452)] [[pdf](../publications/ReadBenjaminL_2018_Serial_Interviews_-_When_and_Why_to_Talk_to_Someone_More_than_Once.pdf)] &mdash; a methods paper that discusses the extent and limitations of power held by neighborhood wardens
 + "China–Taiwan Comparisons: Still Promising Though Not 'Ideal'," <u>Harvard Workshop on Chinese Politics</u>, February 23, 2018 [[pdf](http://cnpoliticsworkinggroup.org/wp-content/uploads/2018/02/Ben-Read_China-Taiwan-Comparisons.pdf)] [[all papers](http://cnpoliticsworkinggroup.org/index.php/harvard-workshop-memos/)]
 + See [<u>Roots of the State</u>](roots.html) below
@@ -87,6 +88,7 @@ I use a range of different methods in my research, qualitative and quantitative.
 
 ### Articles and book chapters from this project:
 
++ "Pluralism in Practice: How Fieldwork Can Strengthen Diversity and Engagement in Political Science" (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), in Janet M. Box-Steffensmeier et al., ed., Oxford Handbook of Engaged Methodological Pluralism in Political Science Vol. 1, (Oxford: Oxford University Press, 2024) [[pdf](../publications/Kapiszewski+MacLean+Read_2024_Pluralism-in-Practice--How-Fieldwork-Can-Strengthen-Diversity-and-Engagement-in-PS.pdf)]
 + "Dynamic Research Design: Iteration in Field-Based Inquiry” (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), <u>Comparative Politics</u> Vol. 53, No. 4 (July 2022) [[pdf](../publications/Kapiszewski+MacLean+Read_2022_Dynamic-Research-Design--Iteration-in-Field-Based-Inquiry.pdf)]
 + "Problems and Possibilities of Comparison Across Regime Types: Examples Involving China," in Erica S. Simmons and Nicholas Rush Smith, eds., <u>Rethinking Comparison</u> (Cambridge: Cambridge University Press, 2021). [[pdf](../publications/ReadBenjaminL_2021_Problems-and-Possibilities-of-Comparison-Across-Regime-Types_China.pdf)] This is a much-expanded version of the item below.
 + "Problems and Possibilities of Comparison Across Regime Types," <u>Qualitative and Multi-Method Research</u>, Vol. 16, No. 1 (Spring 2018), pp. 33–38 [[pdf](../publications/ReadBenjaminL_2018_Problems_and_Possibilities_of_Comparison_Across_Regime_Types.pdf)]

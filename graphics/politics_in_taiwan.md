@@ -23,7 +23,7 @@ Note: 全尺寸版本請點擊圖像. Click image above for full-sized version. 
 ## [立法院政黨席次比例](full_images/ly-party-by-year.png)<br/>[Parties' seat share in Taiwan's legislature](full_images/ly-party-by-year.png)
 
 <div style="text-align:center" markdown="1">
-[![timeline graph of parties' seat share in legislature](small_images/ly-party-by-year-h400.png "Click for full-sized image")](full_images/ly-party-by-year.png)
+[![timeline graph of parties' seat share in Taiwan's legislature](small_images/ly-party-by-year-h400.png "Click for full-sized image")](full_images/ly-party-by-year.png)
 </div>
 
 Note: 全尺寸版本請點擊圖像. Click image above for full-sized version.
