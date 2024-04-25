@@ -13,9 +13,9 @@ What should you call me? I suggest currently enrolled undergraduate students cal
 I am on sabbatical in the 2023-2024 academic year, working on a book. I will resume teaching and office hours in Fall 2024.
 
 Planned teaching schedule, 2024-2025:
-+ Fall 2024: Politics of China, with an updated version of the 2022 syllabus below
-+ Winter 2025: Politics of East Asia, with an updated version of the 2022 syllabus below
-+ Spring 2025: Politics Writing Seminar (a new class for me), and Key Issues in Contemporary Chinese Politics, a graduate seminar; see below for the 2020 syllabus
++ Fall 2024: Politics of China (Poli 141), with an updated version of the 2022 syllabus below
++ Winter 2025: Politics Writing Seminar (Poli 100), a new class for me
++ Spring 2025: Politics of East Asia (Poli 140d), with an updated version of the 2022 syllabus below, and Key Issues in Contemporary Chinese Politics (Poli 261), a graduate seminar; see below for the 2020 syllabus
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
