@@ -31,4 +31,4 @@ Email: bread (at) ucsc (dot) edu
 
 ## Office hours
 
-I am on sabbatical in the 2023-2024 academic year, working on a book. I will resume teaching and office hours in Fall 2024.
+My office hours and the digital sign-up sheet for them are [here](http://tinyurl.com/benreadofficehours).
