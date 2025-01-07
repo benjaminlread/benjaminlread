@@ -14,15 +14,15 @@ My office hours and the digital sign-up sheet for them are [here](http://tinyurl
 
 ## Future teaching
 
-+ Winter 2025: Politics Writing Seminar (Poli 100), a new class for me
 + Spring 2025: Politics of East Asia (Poli 140d), with an updated version of the 2022 syllabus below, and Key Issues in Contemporary Chinese Politics (Poli 261), a graduate seminar; see below for the 2020 syllabus
 
 ## Current teaching
-+ Poli 141, <u>Politics of China</u>, Fall 2024 [[syllabus](Politics 141 - 2024fa - Syllabus.pdf)]
++ Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2025 [[syllabus](Politics 100 - 2025wi - Syllabus.pdf)]
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
 + Poli 140d, <u>Politics of East Asia</u> Winter 2022 [[syllabus](Politics 140d - 2022wi - Syllabus.pdf)]
++ Poli 141, <u>Politics of China</u>, Fall 2024 [[syllabus](Politics 141 - 2024fa - Syllabus.pdf)]
 + Poli 161, <u>The Rise of China</u>, Spring 2023 [[syllabus](Politics 161 - 2023sp - Syllabus.pdf)] [[Korean Peninsula timeline](../visualizations/korean_peninsula_timeline.html)]
 + Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
 + Poli 200b, <u>Social Forces and Political Change</u>, graduate seminar, Winter 2015 [[syllabus](Politics 200b - 2015wi - Syllabus.pdf)]
