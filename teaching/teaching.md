@@ -14,7 +14,8 @@ My office hours and the digital sign-up sheet for them are [here](http://tinyurl
 
 ## Future teaching
 
-+ Spring 2025: Politics of East Asia (Poli 140d), with a new version of the 2022 syllabus below. Also: Key Issues in Contemporary Chinese Politics (Poli 261), a graduate seminar, with a new version of the 2020 syllabus below.
++ Poli 140d, <u>Politics of East Asia</u>, Spring 2025, with a new version of the 2022 syllabus below.
++ Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>, graduate seminar, Spring 2025 [[draft syllabus](Politics 261 - 2025sp - Syllabus.pdf)]
 
 ## Current teaching
 + Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2025 [[syllabus](Politics 100 - 2025wi - Syllabus.pdf)]
@@ -27,4 +28,3 @@ My office hours and the digital sign-up sheet for them are [here](http://tinyurl
 + Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
 + Poli 200b, <u>Social Forces and Political Change</u>, graduate seminar, Winter 2015 [[syllabus](Politics 200b - 2015wi - Syllabus.pdf)]
 + Poli 210, <u>Problems of Democracy in Comparative Perspective</u>, graduate seminar, Spring 2016 [[syllabus](Politics 210 - 2016sp - Problems of Democracy - Syllabus.pdf)]
-+ Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>, graduate seminar, Spring 2020 [[syllabus](Politics 261 - 2020sp - Syllabus.pdf)]
