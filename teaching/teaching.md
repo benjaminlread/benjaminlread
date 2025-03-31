@@ -12,17 +12,13 @@ What should you call me? I suggest currently enrolled undergraduate students cal
 
 My office hours and the digital sign-up sheet for them are [here](http://tinyurl.com/benreadofficehours).
 
-## Future teaching
-
-+ Poli 140d, <u>Politics of East Asia</u>, Spring 2025, with a new version of the 2022 syllabus below.
+## Current courses
++ Poli 140d, <u>Politics of East Asia</u> Spring 2025 [[syllabus](Politics 140d - 2025sp - Syllabus.pdf)]
 + Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>, graduate seminar, Spring 2025 [[draft syllabus](Politics 261 - 2025sp - Syllabus.pdf)]
-
-## Current teaching
-+ Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2025 [[syllabus](Politics 100 - 2025wi - Syllabus.pdf)]
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
-+ Poli 140d, <u>Politics of East Asia</u> Winter 2022 [[syllabus](Politics 140d - 2022wi - Syllabus.pdf)]
++ Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2025 [[syllabus](Politics 100 - 2025wi - Syllabus.pdf)]
 + Poli 141, <u>Politics of China</u>, Fall 2024 [[syllabus](Politics 141 - 2024fa - Syllabus.pdf)]
 + Poli 161, <u>The Rise of China</u>, Spring 2023 [[syllabus](Politics 161 - 2023sp - Syllabus.pdf)] [[Korean Peninsula timeline](../visualizations/korean_peninsula_timeline.html)]
 + Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
