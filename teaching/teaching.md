@@ -21,7 +21,7 @@ My office hours and the digital sign-up sheet for them are [here](http://tinyurl
 
 ## Current courses
 + Poli 140d, <u>Politics of East Asia</u> Spring 2025 [[syllabus](Politics 140d - 2025sp - Syllabus.pdf)]
-+ Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>, graduate seminar, Spring 2025 [[draft syllabus](Politics 261 - 2025sp - Syllabus.pdf)]
++ Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>, graduate seminar, Spring 2025 [[syllabus](Politics 261 - 2025sp - Syllabus.pdf)]
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
