@@ -13,7 +13,8 @@ What should you call me? I suggest currently enrolled undergraduate students cal
 My office hours and the digital sign-up sheet for them are [here](http://tinyurl.com/benreadofficehours).
 
 ## Future courses
-+ The following lineup is anticipated but subject to change:
+
+The following lineup is anticipated but subject to change:
 + Poli 161, <u>The Rise of China</u>, Fall 2025 (see previous syllabus below)
 + Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2026 (see previous syllabus below)
 + Poli 201, <u>Logics of Inquiry</u>, a graduate seminar, Winter 2026
