@@ -15,18 +15,17 @@ My office hours and the digital sign-up sheet for them are [here](http://tinyurl
 ## Future courses
 
 The following lineup is anticipated but subject to change:
-+ Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2026 (see previous syllabus below)
-+ Poli 201, <u>Logics of Inquiry</u>, a graduate seminar, Winter 2026
 + Poli 140d, <u>Politics of East Asia</u> Spring 2026 (see previous syllabus below)
 
 ## Current courses
-+ Poli 161, <u>The Rise of China</u>, Fall 2025 [[syllabus](Politics 161 - 2025fa - Syllabus.pdf)]
++ Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2026 [[syllabus](Politics 100 - 2026wi - Syllabus.pdf)]
++ Poli 201, <u>Logics of Inquiry</u>, a graduate seminar, Winter 2026 [[syllabus](Politics 201 - 2026wi - Syllabus.pdf)]
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
-+ Poli 100, <u>Politics Writing-Intensive Seminar</u>, Winter 2025 [[syllabus](Politics 100 - 2025wi - Syllabus.pdf)]
 + Poli 140d, <u>Politics of East Asia</u> Spring 2025 [[syllabus](Politics 140d - 2025sp - Syllabus.pdf)]
 + Poli 141, <u>Politics of China</u>, Fall 2024 [[syllabus](Politics 141 - 2024fa - Syllabus.pdf)]
++ Poli 161, <u>The Rise of China</u>, Fall 2025 [[syllabus](Politics 161 - 2025fa - Syllabus.pdf)]
 + Poli 190t, <u>Governance and Conflict in East Asia</u>, Winter 2018 [[syllabus](Politics 190t - 2018wi - Syllabus.pdf)]
 + Poli 200b, <u>Social Forces and Political Change</u>, graduate seminar, Winter 2015 [[syllabus](Politics 200b - 2015wi - Syllabus.pdf)]
 + Poli 210, <u>Problems of Democracy in Comparative Perspective</u>, graduate seminar, Spring 2016 [[syllabus](Politics 210 - 2016sp - Problems of Democracy - Syllabus.pdf)]
