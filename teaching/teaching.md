@@ -21,7 +21,7 @@ The following lineup is anticipated but subject to change. For each, see previou
 + Poli 261, <u>Key Issues in Contemporary Chinese Politics</u>, graduate seminar, Spring 2027
 
 ## Current course
-+ Poli 140d, <u>Politics of East Asia</u> Spring 2026 [[syllabus](Politics 140d - 2026sp - Syllabus.pdf)]
++ Poli 140d, <u>Politics of East Asia</u>, Spring 2026 [[syllabus](Politics 140d - 2026sp - Syllabus.pdf)]
 
 ## Past courses
 + Poli 60, <u>Comparative Politics of the Developing World</u>, Winter 2023 [[syllabus](Politics 60 - 2023wi - Syllabus.pdf)]
