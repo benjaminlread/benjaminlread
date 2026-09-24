@@ -6,7 +6,7 @@ My research centers on local and grassroots politics in East Asia, mainly China 
 
 ## Cambridge Elements / Politics and Society in East Asia
 
-I co-edit a series of short books on politics and society in East Asia. Each Element takes stock of scholarship on an important issue or concept and advances an original argument about it. They are available in PDF and print editions, with some permanently open-access. Since the series started publishing in 2021, tens of thousands of readers have viewed and downloaded the various contributions.
+I edit a series of short books on politics and society in East Asia. Each Element takes stock of scholarship on an important issue or concept and advances an original argument about it. They are available in PDF and print editions, with some permanently open-access. Since the series started publishing in 2021, tens of thousands of readers have viewed and downloaded the various contributions. (For the first several years, Erin Chung and Mary Alice Haddad were co-editors with me.)
 
 <div style="text-align:center" markdown="1">
 ![covers of several Elements](../images/CEPSEA_covers_image.jpg)
@@ -25,7 +25,9 @@ Full details [here](https://www.cambridge.org/core/publications/elements/politic
 
 In Taiwan, as elsewhere, studies of democracy focus most on the national level. Here, I examine democratic practices and processes at the local level, particularly cities. The campaigns and activities of city councilors and neighborhood leaders provide a window on the workings of Taiwan's political system in ways that connect with ordinary people's lives.
 
-I'm writing a book about accountability relationships between elected mayors and councils in Taiwan's cities and counties, based on extensive fieldwork as well as news reports and other sources.
+I'm writing a book about accountability relationships between elected mayors and councils in Taiwan's cities and counties, based on extensive fieldwork as well as news reports and other sources:
+
++ <u>The Struggle for Oversight: Councils and Mayors in the Heart of Taiwan’s Democracy</u> (with Hsi Dai Lin and Chen Chun-Ming)
 
 ### Articles, book chapters, and more from this project:
 
@@ -38,7 +40,7 @@ I'm writing a book about accountability relationships between elected mayors and
 
 ## State-Fostered Organizations
 
-Early in my studies I became fascinated by ultra-local organizations that incorporate popular participation yet are fostered by governments and drawn upon for administrative purposes. They are unfamiliar in Western settings, but Japan, South Korea, Indonesia and other East and Southeast Asian countries feature tens of thousands of these structures, which operate at the neighborhood or village level and facilitate social welfare, public health, policing and other state functions.
+Back in graduate school I became fascinated by ultra-local organizations that incorporate popular participation yet are fostered by governments and drawn upon for administrative purposes. They are unfamiliar in Western settings, but Japan, South Korea, Indonesia and other East and Southeast Asian countries feature tens of thousands of these structures, which operate at the neighborhood or village level and facilitate social welfare, public health, policing and other state functions.
 
 The first such institution that I have studied is China's system of urban Residents' Committees (jumin weiyuanhui). My doctoral dissertation was based on fourteen months of fieldwork in Beijing and other cities, which included repeated visits to a set of ten RCs, along with interviews and a survey of 1,124 Beijing residents. I later conducted several rounds of follow-up research. Meanwhile, from 2003 on, I have also studied Taiwan's neighborhood administrative system, which constitutes a second example of such an institution. Urban neighborhoods (li) in Taiwan are headed by elected leaders (lizhang) who work with city government liaisons (liganshi) and choose a set of block captains (linzhang) to help them. Extensive interviews in Taipei and Chiayi, as well as a telephone survey of 1,140 Taipei residents, have helped me to understand this system.
 
@@ -90,7 +92,7 @@ I use a range of different methods in my research, qualitative and quantitative.
 ![cover of field research in political science](../images/frps_cover_212x300.jpg)
 </div>
 
-+ <u>Field Research in Political Science: Practices and Principles</u>, Cambridge University Press 2015 [[abstract](frps.html)] [[publisher's page](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/field-research-political-science-practices-and-principles)] [[project site](http://www.psfieldresearch.org/)] [[Amazon page](http://www.amazon.com/Field-Research-Political-Science-Principles/dp/0521184835/)]
++ <u>Field Research in Political Science: Practices and Principles</u> (Diana Kapiszewski, Lauren M. MacLean, and Benjamin L. Read), Cambridge University Press 2015 [[abstract](frps.html)] [[publisher's page](http://www.cambridge.org/us/academic/subjects/politics-international-relations/research-methods-politics/field-research-political-science-practices-and-principles)] [[project site](http://www.psfieldresearch.org/)] [[Amazon page](http://www.amazon.com/Field-Research-Political-Science-Principles/dp/0521184835/)]
 
 ### Articles and book chapters from this project:
 
